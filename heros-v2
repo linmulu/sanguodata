@@ -1,0 +1,2258 @@
+[
+  {
+    "id": "wei1",
+    "name": "典韦",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "古之恶来",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/典韦.png",
+    "attributes": {
+      "force": { "base": 95, "growth": 2.62 },
+      "intellect": { "base": 35, "growth": 0.19 },
+      "command": { "base": 72, "growth": 1.36 },
+      "speed": { "base": 72, "growth": 1.25 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "S",
+      "bow": "C",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei2",
+    "name": "贾诩",
+    "kingdom": "魏",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/贾诩.png",
+    "attributes": {
+      "force": { "base": 48, "growth": 0.23 },
+      "intellect": { "base": 97, "growth": 2.65 },
+      "command": { "base": 88, "growth": 1.77 },
+      "speed": { "base": 43, "growth": 0.62 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "S",
+      "spear": "C",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei3",
+    "name": "司马懿",
+    "kingdom": "魏",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/司马懿.png",
+    "attributes": {
+      "force": { "base": 63, "growth": 0.42 },
+      "intellect": { "base": 98, "growth": 2.67 },
+      "command": { "base": 98, "growth": 2.06 },
+      "speed": { "base": 39, "growth": 0.82 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "A",
+      "spear": "S",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei4",
+    "name": "曹操",
+    "kingdom": "魏",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹操.png",
+    "attributes": {
+      "force": { "base": 72, "growth": 1.33 },
+      "intellect": { "base": 91, "growth": 1.94 },
+      "command": { "base": 99, "growth": 2.7 },
+      "speed": { "base": 64, "growth": 1.18 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "S",
+      "bow": "A",
+      "spear": "A",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei5",
+    "name": "张辽",
+    "kingdom": "魏",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张辽.png",
+    "attributes": {
+      "force": { "base": 92, "growth": 2.33 },
+      "intellect": { "base": 78, "growth": 1.29 },
+      "command": { "base": 95, "growth": 1.32 },
+      "speed": { "base": 78, "growth": 1.49 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "B",
+      "spear": "S",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei6",
+    "name": "SP郭嘉",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP郭嘉.png",
+    "attributes": {
+      "force": { "base": 15, "growth": 0.23 },
+      "intellect": { "base": 96, "growth": 2.64 },
+      "command": { "base": 88, "growth": 1.81 },
+      "speed": { "base": 83, "growth": 1.03 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "A",
+      "spear": "B",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei7",
+    "name": "许褚",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/许褚.png",
+    "attributes": {
+      "force": { "base": 96, "growth": 2.65 },
+      "intellect": { "base": 36, "growth": 0.37 },
+      "command": { "base": 74, "growth": 1.51 },
+      "speed": { "base": 70, "growth": 1.09 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei8",
+    "name": "张郃",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张郃.png",
+    "attributes": {
+      "force": { "base": 89, "growth": 2.07 },
+      "intellect": { "base": 73, "growth": 0.94 },
+      "command": { "base": 89, "growth": 1.42 },
+      "speed": { "base": 31, "growth": 0.6 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "S",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei9",
+    "name": "郝昭",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/郝昭.png",
+    "attributes": {
+      "force": { "base": 79, "growth": 1.65 },
+      "intellect": { "base": 78, "growth": 1.67 },
+      "command": { "base": 86, "growth": 1.95 },
+      "speed": { "base": 47, "growth": 0.61 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "S",
+      "bow": "A",
+      "spear": "B",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "wei10",
+    "name": "曹仁",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹仁.png",
+    "attributes": {
+      "force": { "base": 86, "growth": 1.26 },
+      "intellect": { "base": 62, "growth": 1.02 },
+      "command": { "base": 89, "growth": 2.31 },
+      "speed": { "base": 23, "growth": 0.43 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei11",
+    "name": "程昱",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/程昱.png",
+    "attributes": {
+      "force": { "base": 49, "growth": 0.41 },
+      "intellect": { "base": 90, "growth": 2.32 },
+      "command": { "base": 70, "growth": 1.36 },
+      "speed": { "base": 44, "growth": 0.59 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "A",
+      "spear": "C",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei12",
+    "name": "荀攸",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/荀攸.png",
+    "attributes": {
+      "force": { "base": 26, "growth": 0.18 },
+      "intellect": { "base": 94, "growth": 2.36 },
+      "command": { "base": 73, "growth": 1.75 },
+      "speed": { "base": 49, "growth": 0.68 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "C",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei13",
+    "name": "徐晃",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/徐晃.png",
+    "attributes": {
+      "force": { "base": 90, "growth": 2.09 },
+      "intellect": { "base": 78, "growth": 1.28 },
+      "command": { "base": 91, "growth": 1.47 },
+      "speed": { "base": 61, "growth": 0.73 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "C",
+      "spear": "A",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei14",
+    "name": "夏侯惇",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/夏侯惇.png",
+    "attributes": {
+      "force": { "base": 90, "growth": 2.1 },
+      "intellect": { "base": 63, "growth": 0.84 },
+      "command": { "base": 92, "growth": 2.07 },
+      "speed": { "base": 66, "growth": 1.18 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "C",
+      "spear": "A",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei15",
+    "name": "庞德",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/庞德.png",
+    "attributes": {
+      "force": { "base": 94, "growth": 2.31 },
+      "intellect": { "base": 75, "growth": 0.83 },
+      "command": { "base": 89, "growth": 1.05 },
+      "speed": { "base": 35, "growth": 0.57 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "S",
+      "spear": "B",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei16",
+    "name": "钟会",
+    "kingdom": "魏",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/钟会.png",
+    "attributes": {
+      "force": { "base": 51, "growth": 0.84 },
+      "intellect": { "base": 91, "growth": 2.01 },
+      "command": { "base": 82, "growth": 1.88 },
+      "speed": { "base": 75, "growth": 1.26 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei17",
+    "name": "满宠",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/满宠.png",
+    "attributes": {
+      "force": { "base": 64, "growth": 0.92 },
+      "intellect": { "base": 82, "growth": 2.08 },
+      "command": { "base": 85, "growth": 1.95 },
+      "speed": { "base": 61, "growth": 1.08 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "A",
+      "spear": "B",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei18",
+    "name": "王双",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王双.png",
+    "attributes": {
+      "force": { "base": 88, "growth": 2.35 },
+      "intellect": { "base": 19, "growth": 0.27 },
+      "command": { "base": 67, "growth": 1.44 },
+      "speed": { "base": 67, "growth": 0.89 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "C",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei19",
+    "name": "王元姬",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王元姬.png",
+    "attributes": {
+      "force": { "base": 37, "growth": 0.37 },
+      "intellect": { "base": 73, "growth": 2.01 },
+      "command": { "base": 53, "growth": 1.93 },
+      "speed": { "base": 57, "growth": 1 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "A",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei20",
+    "name": "曹纯",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹纯.png",
+    "attributes": {
+      "force": { "base": 71, "growth": 1.72 },
+      "intellect": { "base": 63, "growth": 0.79 },
+      "command": { "base": 75, "growth": 1.34 },
+      "speed": { "base": 52, "growth": 0.47 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "B",
+      "spear": "B",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei21",
+    "name": "于禁",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/于禁.png",
+    "attributes": {
+      "force": { "base": 78, "growth": 2.01 },
+      "intellect": { "base": 74, "growth": 0.85 },
+      "command": { "base": 83, "growth": 1.14 },
+      "speed": { "base": 35, "growth": 0.59 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wei22",
+    "name": "乐进",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/乐进.png",
+    "attributes": {
+      "force": { "base": 85, "growth": 2.06 },
+      "intellect": { "base": 56, "growth": 0.72 },
+      "command": { "base": 80, "growth": 1.77 },
+      "speed": { "base": 68, "growth": 1.17 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "B",
+      "spear": "S",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "wei23",
+    "name": "邓艾",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/邓艾.png",
+    "attributes": {
+      "force": { "base": 87, "growth": 1.47 },
+      "intellect": { "base": 89, "growth": 1.66 },
+      "command": { "base": 93, "growth": 1.79 },
+      "speed": { "base": 74, "growth": 1.11 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "A",
+      "spear": "S",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "wei24",
+    "name": "夏侯渊",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/夏侯渊.png",
+    "attributes": {
+      "force": { "base": 91, "growth": 2.36 },
+      "intellect": { "base": 68, "growth": 0.84 },
+      "command": { "base": 90, "growth": 1.28 },
+      "speed": { "base": 75, "growth": 1.33 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "B",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wei25",
+    "name": "郭嘉",
+    "kingdom": "魏",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/郭嘉.png",
+    "attributes": {
+      "force": { "base": 15, "growth": 0.21 },
+      "intellect": { "base": 96, "growth": 2.64 },
+      "command": { "base": 88, "growth": 1.42 },
+      "speed": { "base": 83, "growth": 1.21 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "A",
+      "spear": "B",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wei26",
+    "name": "张春华",
+    "kingdom": "魏",
+    "cost": 3,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张春华.png",
+    "attributes": {
+      "force": { "base": 49, "growth": 0.4 },
+      "intellect": { "base": 79, "growth": 1.98 },
+      "command": { "base": 60, "growth": 1.34 },
+      "speed": { "base": 48, "growth": 0.63 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "A",
+      "spear": "C",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "shu1",
+    "name": "刘备",
+    "kingdom": "蜀",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/刘备.png",
+    "attributes": {
+      "force": { "base": 77, "growth": 1.36 },
+      "intellect": { "base": 78, "growth": 1.67 },
+      "command": { "base": 81, "growth": 1.98 },
+      "speed": { "base": 41, "growth": 1.05 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "S",
+      "bow": "A",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu2",
+    "name": "庞统",
+    "kingdom": "蜀",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/庞统.png",
+    "attributes": {
+      "force": { "base": 34, "growth": 0.52 },
+      "intellect": { "base": 97, "growth": 2.61 },
+      "command": { "base": 85, "growth": 1.33 },
+      "speed": { "base": 34, "growth": 0.79 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "shu3",
+    "name": "马超",
+    "kingdom": "蜀",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马超.png",
+    "attributes": {
+      "force": { "base": 97, "growth": 2.65 },
+      "intellect": { "base": 44, "growth": 0.76 },
+      "command": { "base": 93, "growth": 1.25 },
+      "speed": { "base": 78, "growth": 1.17 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "B",
+      "spear": "S",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "shu4",
+    "name": "诸葛亮",
+    "kingdom": "蜀",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/诸葛亮.png",
+    "attributes": {
+      "force": { "base": 38, "growth": 0.41 },
+      "intellect": { "base": 100, "growth": 3 },
+      "command": { "base": 98, "growth": 2.36 },
+      "speed": { "base": 37, "growth": 0.55 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "S",
+      "spear": "S",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "shu5",
+    "name": "关羽",
+    "kingdom": "蜀",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "威震华夏",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关羽.png",
+    "attributes": {
+      "force": { "base": 97, "growth": 2.68 },
+      "intellect": { "base": 79, "growth": 1.05 },
+      "command": { "base": 97, "growth": 2.04 },
+      "speed": { "base": 74, "growth": 1.3 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "C",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu6",
+    "name": "SP诸葛亮",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP诸葛亮.png",
+    "attributes": {
+      "force": { "base": 38, "growth": 0.41 },
+      "intellect": { "base": 100, "growth": 3 },
+      "command": { "base": 98, "growth": 1.79 },
+      "speed": { "base": 37, "growth": 0.93 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "S",
+      "spear": "S",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "shu7",
+    "name": "严颜",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/严颜.png",
+    "attributes": {
+      "force": { "base": 81, "growth": 1.83 },
+      "intellect": { "base": 73, "growth": 1.35 },
+      "command": { "base": 80, "growth": 1.88 },
+      "speed": { "base": 51, "growth": 0.81 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "S",
+      "spear": "A",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "shu8",
+    "name": "张苞",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张苞.png",
+    "attributes": {
+      "force": { "base": 87, "growth": 2.34 },
+      "intellect": { "base": 48, "growth": 0.59 },
+      "command": { "base": 78, "growth": 1.72 },
+      "speed": { "base": 60, "growth": 1.06 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu9",
+    "name": "关兴",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关兴.png",
+    "attributes": {
+      "force": { "base": 86, "growth": 2.3 },
+      "intellect": { "base": 67, "growth": 0.94 },
+      "command": { "base": 76, "growth": 1.63 },
+      "speed": { "base": 59, "growth": 1.02 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu10",
+    "name": "关银屏",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关银屏.png",
+    "attributes": {
+      "force": { "base": 78, "growth": 2.09 },
+      "intellect": { "base": 42, "growth": 0.76 },
+      "command": { "base": 73, "growth": 1.97 },
+      "speed": { "base": 65, "growth": 1.21 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "C",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu11",
+    "name": "马云禄",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马云禄.png",
+    "attributes": {
+      "force": { "base": 77, "growth": 2.09 },
+      "intellect": { "base": 55, "growth": 1.01 },
+      "command": { "base": 85, "growth": 1.43 },
+      "speed": { "base": 53, "growth": 0.79 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "B",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu12",
+    "name": "陈到",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陈到.png",
+    "attributes": {
+      "force": { "base": 71, "growth": 1.62 },
+      "intellect": { "base": 67, "growth": 1.58 },
+      "command": { "base": 76, "growth": 0.72 },
+      "speed": { "base": 53, "growth": 0.95 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "B",
+      "spear": "S",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "shu13",
+    "name": "姜维",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/姜维.png",
+    "attributes": {
+      "force": { "base": 89, "growth": 2.01 },
+      "intellect": { "base": 90, "growth": 2.03 },
+      "command": { "base": 92, "growth": 2.05 },
+      "speed": { "base": 64, "growth": 1.01 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu14",
+    "name": "魏延",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/魏延.png",
+    "attributes": {
+      "force": { "base": 92, "growth": 2.37 },
+      "intellect": { "base": 72, "growth": 1.17 },
+      "command": { "base": 85, "growth": 1.49 },
+      "speed": { "base": 55, "growth": 1.04 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu15",
+    "name": "黄忠",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄忠.png",
+    "attributes": {
+      "force": { "base": 93, "growth": 2.3 },
+      "intellect": { "base": 65, "growth": 1.07 },
+      "command": { "base": 90, "growth": 1.16 },
+      "speed": { "base": 52, "growth": 0.81 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu16",
+    "name": "赵云",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/赵云.png",
+    "attributes": {
+      "force": { "base": 96, "growth": 2.62 },
+      "intellect": { "base": 77, "growth": 0.96 },
+      "command": { "base": 96, "growth": 2.06 },
+      "speed": { "base": 70, "growth": 1.11 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "A",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu17",
+    "name": "张飞",
+    "kingdom": "蜀",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "燕人咆哮",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张飞.png",
+    "attributes": {
+      "force": { "base": 98, "growth": 2.69 },
+      "intellect": { "base": 30, "growth": 0.22 },
+      "command": { "base": 94, "growth": 1.69 },
+      "speed": { "base": 70, "growth": 1.26 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "C",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu18",
+    "name": "王平",
+    "kingdom": "蜀",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王平.png",
+    "attributes": {
+      "force": { "base": 79, "growth": 1.3 },
+      "intellect": { "base": 76, "growth": 1.25 },
+      "command": { "base": 83, "growth": 1.44 },
+      "speed": { "base": 55, "growth": 0.85 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "B",
+      "bow": "S",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu19",
+    "name": "徐庶",
+    "kingdom": "蜀",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/徐庶.png",
+    "attributes": {
+      "force": { "base": 64, "growth": 0.3 },
+      "intellect": { "base": 93, "growth": 2.33 },
+      "command": { "base": 87, "growth": 1.29 },
+      "speed": { "base": 48, "growth": 0.51 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "A",
+      "spear": "B",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "shu20",
+    "name": "张姬",
+    "kingdom": "蜀",
+    "cost": 4,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张姬.png",
+    "attributes": {
+      "force": { "base": 61, "growth": 1.23 },
+      "intellect": { "base": 37, "growth": 1.07 },
+      "command": { "base": 20, "growth": 1.04 },
+      "speed": { "base": 67, "growth": 1.36 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "shu21",
+    "name": "黄月英",
+    "kingdom": "蜀",
+    "cost": 4,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄月英.png",
+    "attributes": {
+      "force": { "base": 31, "growth": 0.46 },
+      "intellect": { "base": 88, "growth": 2.01 },
+      "command": { "base": 58, "growth": 1.35 },
+      "speed": { "base": 66, "growth": 1.07 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "C",
+      "bow": "C",
+      "spear": "C",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "shu22",
+    "name": "法正",
+    "kingdom": "蜀",
+    "cost": 4,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/法正.png",
+    "attributes": {
+      "force": { "base": 47, "growth": 0.32 },
+      "intellect": { "base": 94, "growth": 2.09 },
+      "command": { "base": 82, "growth": 1.01 },
+      "speed": { "base": 71, "growth": 0.68 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "S",
+      "bow": "A",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wu1",
+    "name": "孙尚香",
+    "kingdom": "吴",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙尚香.png",
+    "attributes": {
+      "force": { "base": 86, "growth": 2.39 },
+      "intellect": { "base": 70, "growth": 1.18 },
+      "command": { "base": 76, "growth": 1.26 },
+      "speed": { "base": 73, "growth": 1.11 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu2",
+    "name": "陆逊",
+    "kingdom": "吴",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陆逊.png",
+    "attributes": {
+      "force": { "base": 69, "growth": 0.42 },
+      "intellect": { "base": 95, "growth": 2.6 },
+      "command": { "base": 94, "growth": 1.88 },
+      "speed": { "base": 39, "growth": 0.72 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wu3",
+    "name": "SP周瑜",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP周瑜.png",
+    "attributes": {
+      "force": { "base": 71, "growth": 1.04 },
+      "intellect": { "base": 96, "growth": 2.62 },
+      "command": { "base": 95, "growth": 1.66 },
+      "speed": { "base": 42, "growth": 0.67 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu4",
+    "name": "凌统",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/凌统.png",
+    "attributes": {
+      "force": { "base": 89, "growth": 1.97 },
+      "intellect": { "base": 60, "growth": 0.97 },
+      "command": { "base": 77, "growth": 1.51 },
+      "speed": { "base": 67, "growth": 1.48 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "C",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu5",
+    "name": "鲁肃",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/鲁肃.png",
+    "attributes": {
+      "force": { "base": 56, "growth": 0.38 },
+      "intellect": { "base": 92, "growth": 2.06 },
+      "command": { "base": 84, "growth": 1.45 },
+      "speed": { "base": 65, "growth": 1.02 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "A",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "wu6",
+    "name": "孙权",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙权.png",
+    "attributes": {
+      "force": { "base": 67, "growth": 1.71 },
+      "intellect": { "base": 80, "growth": 1.36 },
+      "command": { "base": 79, "growth": 1.69 },
+      "speed": { "base": 77, "growth": 0.83 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu7",
+    "name": "甘宁",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/甘宁.png",
+    "attributes": {
+      "force": { "base": 94, "growth": 2.6 },
+      "intellect": { "base": 76, "growth": 0.45 },
+      "command": { "base": 93, "growth": 1.57 },
+      "speed": { "base": 72, "growth": 1.23 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "S",
+      "spear": "S",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "wu8",
+    "name": "周泰",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/周泰.png",
+    "attributes": {
+      "force": { "base": 91, "growth": 1.91 },
+      "intellect": { "base": 48, "growth": 0.77 },
+      "command": { "base": 84, "growth": 2.08 },
+      "speed": { "base": 53, "growth": 0.84 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "S",
+      "bow": "A",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu9",
+    "name": "吕蒙",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕蒙.png",
+    "attributes": {
+      "force": { "base": 81, "growth": 1.68 },
+      "intellect": { "base": 89, "growth": 1.95 },
+      "command": { "base": 91, "growth": 1.35 },
+      "speed": { "base": 37, "growth": 0.59 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "B",
+      "bow": "A",
+      "spear": "S",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "wu10",
+    "name": "太史慈",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/太史慈.png",
+    "attributes": {
+      "force": { "base": 93, "growth": 2.09 },
+      "intellect": { "base": 69, "growth": 1.01 },
+      "command": { "base": 90, "growth": 1.39 },
+      "speed": { "base": 67, "growth": 1.11 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "S",
+      "spear": "B",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu11",
+    "name": "孙坚",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙坚.png",
+    "attributes": {
+      "force": { "base": 90, "growth": 2 },
+      "intellect": { "base": 79, "growth": 0.83 },
+      "command": { "base": 94, "growth": 2.05 },
+      "speed": { "base": 34, "growth": 0.45 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu12",
+    "name": "陆抗",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陆抗.png",
+    "attributes": {
+      "force": { "base": 63, "growth": 0.67 },
+      "intellect": { "base": 87, "growth": 2.04 },
+      "command": { "base": 91, "growth": 2.02 },
+      "speed": { "base": 51, "growth": 0.62 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "wu13",
+    "name": "周瑜",
+    "kingdom": "吴",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/周瑜.png",
+    "attributes": {
+      "force": { "base": 71, "growth": 0.47 },
+      "intellect": { "base": 96, "growth": 2.62 },
+      "command": { "base": 95, "growth": 1.66 },
+      "speed": { "base": 42, "growth": 0.67 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "wu14",
+    "name": "黄盖",
+    "kingdom": "吴",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄盖.png",
+    "attributes": {
+      "force": { "base": 83, "growth": 1.41 },
+      "intellect": { "base": 70, "growth": 1.27 },
+      "command": { "base": 80, "growth": 1.68 },
+      "speed": { "base": 31, "growth": 0.54 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "S",
+      "spear": "A",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wu15",
+    "name": "程普",
+    "kingdom": "吴",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/程普.png",
+    "attributes": {
+      "force": { "base": 79, "growth": 1.19 },
+      "intellect": { "base": 79, "growth": 1.44 },
+      "command": { "base": 84, "growth": 2.06 },
+      "speed": { "base": 52, "growth": 0.89 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "A",
+      "spear": "S",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "wu16",
+    "name": "孙策",
+    "kingdom": "吴",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙策.png",
+    "attributes": {
+      "force": { "base": 92, "growth": 2.07 },
+      "intellect": { "base": 74, "growth": 1.06 },
+      "command": { "base": 96, "growth": 1.37 },
+      "speed": { "base": 32, "growth": 0.76 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "A",
+      "spear": "S",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "qun1",
+    "name": "SP朱儁",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP朱儁.png",
+    "attributes": {
+      "force": { "base": 65, "growth": 1.98 },
+      "intellect": { "base": 70, "growth": 1.96 },
+      "command": { "base": 89, "growth": 2.09 },
+      "speed": { "base": 29, "growth": 0.77 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "S",
+      "spear": "B",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "qun2",
+    "name": "SP袁绍",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP袁绍.png",
+    "attributes": {
+      "force": { "base": 69, "growth": 2.06 },
+      "intellect": { "base": 70, "growth": 2.07 },
+      "command": { "base": 81, "growth": 2.01 },
+      "speed": { "base": 62, "growth": 1.04 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "A",
+      "bow": "S",
+      "spear": "B",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "qun3",
+    "name": "袁术",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/袁术.png",
+    "attributes": {
+      "force": { "base": 65, "growth": 1.96 },
+      "intellect": { "base": 65, "growth": 1.96 },
+      "command": { "base": 44, "growth": 1.82 },
+      "speed": { "base": 62, "growth": 1.17 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "B",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun4",
+    "name": "孟获",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孟获.png",
+    "attributes": {
+      "force": { "base": 87, "growth": 2.02 },
+      "intellect": { "base": 42, "growth": 0.6 },
+      "command": { "base": 87, "growth": 2.02 },
+      "speed": { "base": 52, "growth": 0.85 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "S",
+      "bow": "B",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun5",
+    "name": "于吉",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/于吉.png",
+    "attributes": {
+      "force": { "base": 6, "growth": 0.21 },
+      "intellect": { "base": 66, "growth": 2.61 },
+      "command": { "base": 12, "growth": 1.84 },
+      "speed": { "base": 39, "growth": 0.34 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "C",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun6",
+    "name": "董卓",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/董卓.png",
+    "attributes": {
+      "force": { "base": 87, "growth": 1.85 },
+      "intellect": { "base": 73, "growth": 1.35 },
+      "command": { "base": 85, "growth": 2.07 },
+      "speed": { "base": 62, "growth": 1.04 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "S",
+      "spear": "B",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun7",
+    "name": "吕布",
+    "kingdom": "群",
+    "cost": 7,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕布.png",
+    "attributes": {
+      "force": { "base": 100, "growth": 3.04 },
+      "intellect": { "base": 26, "growth": 0.27 },
+      "command": { "base": 97, "growth": 1.4 },
+      "speed": { "base": 74, "growth": 1.41 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun8",
+    "name": "许攸",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/许攸.png",
+    "attributes": {
+      "force": { "base": 21, "growth": 0.12 },
+      "intellect": { "base": 80, "growth": 2.01 },
+      "command": { "base": 26, "growth": 1.94 },
+      "speed": { "base": 44, "growth": 0.92 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "A",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "qun9",
+    "name": "沮授",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/沮授.png",
+    "attributes": {
+      "force": { "base": 35, "growth": 0.42 },
+      "intellect": { "base": 90, "growth": 2.33 },
+      "command": { "base": 78, "growth": 1.94 },
+      "speed": { "base": 46, "growth": 0.72 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "S",
+      "bow": "S",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "qun10",
+    "name": "田丰",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/田丰.png",
+    "attributes": {
+      "force": { "base": 29, "growth": 0.31 },
+      "intellect": { "base": 93, "growth": 2.31 },
+      "command": { "base": 72, "growth": 1.36 },
+      "speed": { "base": 61, "growth": 0.59 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "B",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "qun11",
+    "name": "吕玲绮",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕玲绮.png",
+    "attributes": {
+      "force": { "base": 88, "growth": 2.38 },
+      "intellect": { "base": 37, "growth": 0.96 },
+      "command": { "base": 79, "growth": 1.32 },
+      "speed": { "base": 60, "growth": 1.02 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun12",
+    "name": "祝融夫人",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/祝融夫人.png",
+    "attributes": {
+      "force": { "base": 85, "growth": 2.31 },
+      "intellect": { "base": 29, "growth": 0.76 },
+      "command": { "base": 74, "growth": 1.04 },
+      "speed": { "base": 63, "growth": 0.68 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "A",
+      "bow": "A",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun13",
+    "name": "兀突骨",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/兀突骨.png",
+    "attributes": {
+      "force": { "base": 86, "growth": 1.82 },
+      "intellect": { "base": 1, "growth": 0.01 },
+      "command": { "base": 79, "growth": 2.32 },
+      "speed": { "base": 26, "growth": 0.38 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "S",
+      "bow": "C",
+      "spear": "B",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun14",
+    "name": "公孙瓒",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/公孙瓒.png",
+    "attributes": {
+      "force": { "base": 83, "growth": 1.88 },
+      "intellect": { "base": 75, "growth": 1.62 },
+      "command": { "base": 84, "growth": 1.62 },
+      "speed": { "base": 72, "growth": 1.46 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "S",
+      "spear": "C",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "qun15",
+    "name": "袁绍",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/袁绍.png",
+    "attributes": {
+      "force": { "base": 69, "growth": 1.83 },
+      "intellect": { "base": 70, "growth": 1.65 },
+      "command": { "base": 81, "growth": 1.84 },
+      "speed": { "base": 62, "growth": 1.04 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "S",
+      "bow": "S",
+      "spear": "B",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "qun16",
+    "name": "张角",
+    "kingdom": "群",
+    "cost": 6,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张角.png",
+    "attributes": {
+      "force": { "base": 25, "growth": 0.4 },
+      "intellect": { "base": 86, "growth": 2.38 },
+      "command": { "base": 87, "growth": 1.41 },
+      "speed": { "base": 34, "growth": 0.59 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "S",
+      "bow": "S",
+      "spear": "B",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "qun17",
+    "name": "高览",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/高览.png",
+    "attributes": {
+      "force": { "base": 82, "growth": 2.07 },
+      "intellect": { "base": 68, "growth": 1.08 },
+      "command": { "base": 76, "growth": 1.37 },
+      "speed": { "base": 61, "growth": 0.88 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun18",
+    "name": "木鹿大王",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/木鹿大王.png",
+    "attributes": {
+      "force": { "base": 71, "growth": 1.78 },
+      "intellect": { "base": 39, "growth": 0.37 },
+      "command": { "base": 65, "growth": 1.6 },
+      "speed": { "base": 51, "growth": 0.87 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "C",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun19",
+    "name": "李儒",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/李儒.png",
+    "attributes": {
+      "force": { "base": 26, "growth": 0.31 },
+      "intellect": { "base": 83, "growth": 2.1 },
+      "command": { "base": 61, "growth": 1.02 },
+      "speed": { "base": 59, "growth": 0.77 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "A",
+      "spear": "B",
+      "siege": "B"
+    }
+  },
+  {
+    "id": "qun20",
+    "name": "高顺",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/高顺.png",
+    "attributes": {
+      "force": { "base": 86, "growth": 1.48 },
+      "intellect": { "base": 60, "growth": 0.8 },
+      "command": { "base": 85, "growth": 1.77 },
+      "speed": { "base": 28, "growth": 0.31 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "S",
+      "bow": "B",
+      "spear": "C",
+      "siege": "S"
+    }
+  },
+  {
+    "id": "qun21",
+    "name": "马腾",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马腾.png",
+    "attributes": {
+      "force": { "base": 80, "growth": 1.77 },
+      "intellect": { "base": 52, "growth": 0.61 },
+      "command": { "base": 82, "growth": 1.21 },
+      "speed": { "base": 57, "growth": 0.85 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "C",
+      "bow": "B",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun22",
+    "name": "文丑",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/文丑.png",
+    "attributes": {
+      "force": { "base": 93, "growth": 2.02 },
+      "intellect": { "base": 47, "growth": 0.71 },
+      "command": { "base": 89, "growth": 1.3 },
+      "speed": { "base": 55, "growth": 0.82 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "S",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun23",
+    "name": "华雄",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/华雄.png",
+    "attributes": {
+      "force": { "base": 92, "growth": 2.39 },
+      "intellect": { "base": 61, "growth": 0.81 },
+      "command": { "base": 88, "growth": 1.34 },
+      "speed": { "base": 68, "growth": 1.27 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "S",
+      "shield": "B",
+      "bow": "B",
+      "spear": "A",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun24",
+    "name": "颜良",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/颜良.png",
+    "attributes": {
+      "force": { "base": 94, "growth": 2.1 },
+      "intellect": { "base": 21, "growth": 0.59 },
+      "command": { "base": 88, "growth": 1.26 },
+      "speed": { "base": 53, "growth": 0.83 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "A",
+      "bow": "B",
+      "spear": "S",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun25",
+    "name": "华佗",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/华佗.png",
+    "attributes": {
+      "force": { "base": 12, "growth": 0.38 },
+      "intellect": { "base": 83, "growth": 2.02 },
+      "command": { "base": 18, "growth": 1.76 },
+      "speed": { "base": 78, "growth": 1.25 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "C",
+      "bow": "C",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun26",
+    "name": "左慈",
+    "kingdom": "群",
+    "cost": 5,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/左慈.png",
+    "attributes": {
+      "force": { "base": 10, "growth": 0.33 },
+      "intellect": { "base": 94, "growth": 2.35 },
+      "command": { "base": 34, "growth": 0.94 },
+      "speed": { "base": 31, "growth": 0.44 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "C",
+      "bow": "C",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun27",
+    "name": "貂蝉",
+    "kingdom": "群",
+    "cost": 4,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/貂蝉.png",
+    "attributes": {
+      "force": { "base": 26, "growth": 0.45 },
+      "intellect": { "base": 81, "growth": 1.97 },
+      "command": { "base": 20, "growth": 1.89 },
+      "speed": { "base": 77, "growth": 1.32 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "C",
+      "bow": "B",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun28",
+    "name": "陈宫",
+    "kingdom": "群",
+    "cost": 4,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陈宫.png",
+    "attributes": {
+      "force": { "base": 55, "growth": 0.42 },
+      "intellect": { "base": 89, "growth": 1.9 },
+      "command": { "base": 84, "growth": 1.46 },
+      "speed": { "base": 53, "growth": 0.62 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "A",
+      "shield": "B",
+      "bow": "S",
+      "spear": "A",
+      "siege": "A"
+    }
+  },
+  {
+    "id": "qun29",
+    "name": "邹氏",
+    "kingdom": "群",
+    "cost": 3,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/邹氏.png",
+    "attributes": {
+      "force": { "base": 6, "growth": 0.07 },
+      "intellect": { "base": 77, "growth": 1.5 },
+      "command": { "base": 24, "growth": 1.25 },
+      "speed": { "base": 64, "growth": 1.33 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "C",
+      "shield": "B",
+      "bow": "C",
+      "spear": "C",
+      "siege": "C"
+    }
+  },
+  {
+    "id": "qun30",
+    "name": "蔡文姬",
+    "kingdom": "群",
+    "cost": 3,
+    "rating": 5,
+    "innateSkillName": "",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/蔡文姬.png",
+    "attributes": {
+      "force": { "base": 11, "growth": 0.26 },
+      "intellect": { "base": 77, "growth": 1.89 },
+      "command": { "base": 61, "growth": 1.65 },
+      "speed": { "base": 71, "growth": 1.31 },
+      "politics": { "base": 0, "growth": 0 },
+      "charm": { "base": 0, "growth": 0 }
+    },
+    "troopAptitude": {
+      "cavalry": "B",
+      "shield": "C",
+      "bow": "C",
+      "spear": "C",
+      "siege": "C"
+    }
+  }
+]
