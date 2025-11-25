@@ -5,7 +5,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/典韦.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/典韦.png",
     "attributes": {
       "force": { "base": 95, "growth": 2.62 },
       "intellect": { "base": 35, "growth": 0.19 },
@@ -35,7 +35,7 @@
     "kingdom": "魏",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/贾诩.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/贾诩.png",
     "attributes": {
       "force": { "base": 48, "growth": 0.23 },
       "intellect": { "base": 97, "growth": 2.65 },
@@ -65,7 +65,7 @@
     "kingdom": "魏",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/司马懿.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/司马懿.png",
     "attributes": {
       "force": { "base": 63, "growth": 0.42 },
       "intellect": { "base": 98, "growth": 2.67 },
@@ -95,7 +95,7 @@
     "kingdom": "魏",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹操.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹操.png",
     "attributes": {
       "force": { "base": 72, "growth": 1.33 },
       "intellect": { "base": 91, "growth": 1.94 },
@@ -125,7 +125,7 @@
     "kingdom": "魏",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张辽.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张辽.png",
     "attributes": {
       "force": { "base": 92, "growth": 2.33 },
       "intellect": { "base": 78, "growth": 1.29 },
@@ -155,7 +155,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP郭嘉.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP郭嘉.png",
     "attributes": {
       "force": { "base": 15, "growth": 0.23 },
       "intellect": { "base": 96, "growth": 2.64 },
@@ -185,7 +185,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/许褚.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/许褚.png",
     "attributes": {
       "force": { "base": 96, "growth": 2.65 },
       "intellect": { "base": 36, "growth": 0.37 },
@@ -215,7 +215,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张郃.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张郃.png",
     "attributes": {
       "force": { "base": 89, "growth": 2.07 },
       "intellect": { "base": 73, "growth": 0.94 },
@@ -245,7 +245,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/郝昭.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/郝昭.png",
     "attributes": {
       "force": { "base": 79, "growth": 1.65 },
       "intellect": { "base": 78, "growth": 1.67 },
@@ -275,7 +275,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹仁.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹仁.png",
     "attributes": {
       "force": { "base": 86, "growth": 1.26 },
       "intellect": { "base": 62, "growth": 1.02 },
@@ -305,7 +305,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/程昱.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/程昱.png",
     "attributes": {
       "force": { "base": 49, "growth": 0.41 },
       "intellect": { "base": 90, "growth": 2.32 },
@@ -335,7 +335,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/荀攸.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/荀攸.png",
     "attributes": {
       "force": { "base": 26, "growth": 0.18 },
       "intellect": { "base": 94, "growth": 2.36 },
@@ -365,7 +365,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/徐晃.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/徐晃.png",
     "attributes": {
       "force": { "base": 90, "growth": 2.09 },
       "intellect": { "base": 78, "growth": 1.28 },
@@ -395,7 +395,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/夏侯惇.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/夏侯惇.png",
     "attributes": {
       "force": { "base": 90, "growth": 2.1 },
       "intellect": { "base": 63, "growth": 0.84 },
@@ -425,7 +425,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/庞德.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/庞德.png",
     "attributes": {
       "force": { "base": 94, "growth": 2.31 },
       "intellect": { "base": 75, "growth": 0.83 },
@@ -455,7 +455,7 @@
     "kingdom": "魏",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/钟会.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/钟会.png",
     "attributes": {
       "force": { "base": 51, "growth": 0.84 },
       "intellect": { "base": 91, "growth": 2.01 },
@@ -485,7 +485,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/满宠.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/满宠.png",
     "attributes": {
       "force": { "base": 64, "growth": 0.92 },
       "intellect": { "base": 82, "growth": 2.08 },
@@ -515,7 +515,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王双.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王双.png",
     "attributes": {
       "force": { "base": 88, "growth": 2.35 },
       "intellect": { "base": 19, "growth": 0.27 },
@@ -545,7 +545,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王元姬.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王元姬.png",
     "attributes": {
       "force": { "base": 37, "growth": 0.37 },
       "intellect": { "base": 73, "growth": 2.01 },
@@ -575,7 +575,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹纯.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/曹纯.png",
     "attributes": {
       "force": { "base": 71, "growth": 1.72 },
       "intellect": { "base": 63, "growth": 0.79 },
@@ -605,7 +605,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/于禁.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/于禁.png",
     "attributes": {
       "force": { "base": 78, "growth": 2.01 },
       "intellect": { "base": 74, "growth": 0.85 },
@@ -635,7 +635,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/乐进.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/乐进.png",
     "attributes": {
       "force": { "base": 85, "growth": 2.06 },
       "intellect": { "base": 56, "growth": 0.72 },
@@ -665,7 +665,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/邓艾.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/邓艾.png",
     "attributes": {
       "force": { "base": 87, "growth": 1.47 },
       "intellect": { "base": 89, "growth": 1.66 },
@@ -695,7 +695,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/夏侯渊.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/夏侯渊.png",
     "attributes": {
       "force": { "base": 91, "growth": 2.36 },
       "intellect": { "base": 68, "growth": 0.84 },
@@ -725,7 +725,7 @@
     "kingdom": "魏",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/郭嘉.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/郭嘉.png",
     "attributes": {
       "force": { "base": 15, "growth": 0.21 },
       "intellect": { "base": 96, "growth": 2.64 },
@@ -755,7 +755,7 @@
     "kingdom": "魏",
     "cost": 3,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张春华.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张春华.png",
     "attributes": {
       "force": { "base": 49, "growth": 0.4 },
       "intellect": { "base": 79, "growth": 1.98 },
@@ -785,7 +785,7 @@
     "kingdom": "蜀",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/刘备.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/刘备.png",
     "attributes": {
       "force": { "base": 77, "growth": 1.36 },
       "intellect": { "base": 78, "growth": 1.67 },
@@ -815,7 +815,7 @@
     "kingdom": "蜀",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/庞统.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/庞统.png",
     "attributes": {
       "force": { "base": 34, "growth": 0.52 },
       "intellect": { "base": 97, "growth": 2.61 },
@@ -845,7 +845,7 @@
     "kingdom": "蜀",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马超.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马超.png",
     "attributes": {
       "force": { "base": 97, "growth": 2.65 },
       "intellect": { "base": 44, "growth": 0.76 },
@@ -875,7 +875,7 @@
     "kingdom": "蜀",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/诸葛亮.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/诸葛亮.png",
     "attributes": {
       "force": { "base": 38, "growth": 0.41 },
       "intellect": { "base": 100, "growth": 3 },
@@ -905,7 +905,7 @@
     "kingdom": "蜀",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关羽.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关羽.png",
     "attributes": {
       "force": { "base": 97, "growth": 2.68 },
       "intellect": { "base": 79, "growth": 1.05 },
@@ -935,7 +935,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP诸葛亮.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP诸葛亮.png",
     "attributes": {
       "force": { "base": 38, "growth": 0.41 },
       "intellect": { "base": 100, "growth": 3 },
@@ -965,7 +965,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/严颜.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/严颜.png",
     "attributes": {
       "force": { "base": 81, "growth": 1.83 },
       "intellect": { "base": 73, "growth": 1.35 },
@@ -995,7 +995,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张苞.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张苞.png",
     "attributes": {
       "force": { "base": 87, "growth": 2.34 },
       "intellect": { "base": 48, "growth": 0.59 },
@@ -1025,7 +1025,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关兴.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关兴.png",
     "attributes": {
       "force": { "base": 86, "growth": 2.3 },
       "intellect": { "base": 67, "growth": 0.94 },
@@ -1055,7 +1055,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关银屏.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/关银屏.png",
     "attributes": {
       "force": { "base": 78, "growth": 2.09 },
       "intellect": { "base": 42, "growth": 0.76 },
@@ -1085,7 +1085,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马云禄.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马云禄.png",
     "attributes": {
       "force": { "base": 77, "growth": 2.09 },
       "intellect": { "base": 55, "growth": 1.01 },
@@ -1115,7 +1115,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陈到.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陈到.png",
     "attributes": {
       "force": { "base": 71, "growth": 1.62 },
       "intellect": { "base": 67, "growth": 1.58 },
@@ -1145,7 +1145,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/姜维.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/姜维.png",
     "attributes": {
       "force": { "base": 89, "growth": 2.01 },
       "intellect": { "base": 90, "growth": 2.03 },
@@ -1175,7 +1175,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/魏延.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/魏延.png",
     "attributes": {
       "force": { "base": 92, "growth": 2.37 },
       "intellect": { "base": 72, "growth": 1.17 },
@@ -1205,7 +1205,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄忠.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄忠.png",
     "attributes": {
       "force": { "base": 93, "growth": 2.3 },
       "intellect": { "base": 65, "growth": 1.07 },
@@ -1235,7 +1235,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/赵云.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/赵云.png",
     "attributes": {
       "force": { "base": 96, "growth": 2.62 },
       "intellect": { "base": 77, "growth": 0.96 },
@@ -1265,7 +1265,7 @@
     "kingdom": "蜀",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张飞.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张飞.png",
     "attributes": {
       "force": { "base": 98, "growth": 2.69 },
       "intellect": { "base": 30, "growth": 0.22 },
@@ -1295,7 +1295,7 @@
     "kingdom": "蜀",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王平.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/王平.png",
     "attributes": {
       "force": { "base": 79, "growth": 1.3 },
       "intellect": { "base": 76, "growth": 1.25 },
@@ -1325,7 +1325,7 @@
     "kingdom": "蜀",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/徐庶.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/徐庶.png",
     "attributes": {
       "force": { "base": 64, "growth": 0.3 },
       "intellect": { "base": 93, "growth": 2.33 },
@@ -1355,7 +1355,7 @@
     "kingdom": "蜀",
     "cost": 4,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张姬.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张姬.png",
     "attributes": {
       "force": { "base": 61, "growth": 1.23 },
       "intellect": { "base": 37, "growth": 1.07 },
@@ -1385,7 +1385,7 @@
     "kingdom": "蜀",
     "cost": 4,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄月英.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄月英.png",
     "attributes": {
       "force": { "base": 31, "growth": 0.46 },
       "intellect": { "base": 88, "growth": 2.01 },
@@ -1415,7 +1415,7 @@
     "kingdom": "蜀",
     "cost": 4,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/法正.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/法正.png",
     "attributes": {
       "force": { "base": 47, "growth": 0.32 },
       "intellect": { "base": 94, "growth": 2.09 },
@@ -1445,7 +1445,7 @@
     "kingdom": "吴",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙尚香.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙尚香.png",
     "attributes": {
       "force": { "base": 86, "growth": 2.39 },
       "intellect": { "base": 70, "growth": 1.18 },
@@ -1475,7 +1475,7 @@
     "kingdom": "吴",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陆逊.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陆逊.png",
     "attributes": {
       "force": { "base": 69, "growth": 0.42 },
       "intellect": { "base": 95, "growth": 2.6 },
@@ -1505,7 +1505,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP周瑜.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP周瑜.png",
     "attributes": {
       "force": { "base": 71, "growth": 1.04 },
       "intellect": { "base": 96, "growth": 2.62 },
@@ -1535,7 +1535,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/凌统.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/凌统.png",
     "attributes": {
       "force": { "base": 89, "growth": 1.97 },
       "intellect": { "base": 60, "growth": 0.97 },
@@ -1565,7 +1565,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/鲁肃.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/鲁肃.png",
     "attributes": {
       "force": { "base": 56, "growth": 0.38 },
       "intellect": { "base": 92, "growth": 2.06 },
@@ -1595,7 +1595,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙权.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙权.png",
     "attributes": {
       "force": { "base": 67, "growth": 1.71 },
       "intellect": { "base": 80, "growth": 1.36 },
@@ -1625,7 +1625,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/甘宁.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/甘宁.png",
     "attributes": {
       "force": { "base": 94, "growth": 2.6 },
       "intellect": { "base": 76, "growth": 0.45 },
@@ -1655,7 +1655,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/周泰.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/周泰.png",
     "attributes": {
       "force": { "base": 91, "growth": 1.91 },
       "intellect": { "base": 48, "growth": 0.77 },
@@ -1685,7 +1685,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕蒙.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕蒙.png",
     "attributes": {
       "force": { "base": 81, "growth": 1.68 },
       "intellect": { "base": 89, "growth": 1.95 },
@@ -1715,7 +1715,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/太史慈.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/太史慈.png",
     "attributes": {
       "force": { "base": 93, "growth": 2.09 },
       "intellect": { "base": 69, "growth": 1.01 },
@@ -1745,7 +1745,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙坚.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙坚.png",
     "attributes": {
       "force": { "base": 90, "growth": 2 },
       "intellect": { "base": 79, "growth": 0.83 },
@@ -1775,7 +1775,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陆抗.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陆抗.png",
     "attributes": {
       "force": { "base": 63, "growth": 0.67 },
       "intellect": { "base": 87, "growth": 2.04 },
@@ -1805,7 +1805,7 @@
     "kingdom": "吴",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/周瑜.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/周瑜.png",
     "attributes": {
       "force": { "base": 71, "growth": 0.47 },
       "intellect": { "base": 96, "growth": 2.62 },
@@ -1835,7 +1835,7 @@
     "kingdom": "吴",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄盖.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/黄盖.png",
     "attributes": {
       "force": { "base": 83, "growth": 1.41 },
       "intellect": { "base": 70, "growth": 1.27 },
@@ -1865,7 +1865,7 @@
     "kingdom": "吴",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/程普.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/程普.png",
     "attributes": {
       "force": { "base": 79, "growth": 1.19 },
       "intellect": { "base": 79, "growth": 1.44 },
@@ -1895,7 +1895,7 @@
     "kingdom": "吴",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙策.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孙策.png",
     "attributes": {
       "force": { "base": 92, "growth": 2.07 },
       "intellect": { "base": 74, "growth": 1.06 },
@@ -1925,7 +1925,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP朱儁.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP朱儁.png",
     "attributes": {
       "force": { "base": 65, "growth": 1.98 },
       "intellect": { "base": 70, "growth": 1.96 },
@@ -1955,7 +1955,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP袁绍.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/SP袁绍.png",
     "attributes": {
       "force": { "base": 69, "growth": 2.06 },
       "intellect": { "base": 70, "growth": 2.07 },
@@ -1985,7 +1985,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/袁术.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/袁术.png",
     "attributes": {
       "force": { "base": 65, "growth": 1.96 },
       "intellect": { "base": 65, "growth": 1.96 },
@@ -2015,7 +2015,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孟获.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/孟获.png",
     "attributes": {
       "force": { "base": 87, "growth": 2.02 },
       "intellect": { "base": 42, "growth": 0.6 },
@@ -2045,7 +2045,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/于吉.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/于吉.png",
     "attributes": {
       "force": { "base": 6, "growth": 0.21 },
       "intellect": { "base": 66, "growth": 2.61 },
@@ -2075,7 +2075,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/董卓.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/董卓.png",
     "attributes": {
       "force": { "base": 87, "growth": 1.85 },
       "intellect": { "base": 73, "growth": 1.35 },
@@ -2105,7 +2105,7 @@
     "kingdom": "群",
     "cost": 7,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕布.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕布.png",
     "attributes": {
       "force": { "base": 100, "growth": 3.04 },
       "intellect": { "base": 26, "growth": 0.27 },
@@ -2135,7 +2135,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/许攸.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/许攸.png",
     "attributes": {
       "force": { "base": 21, "growth": 0.12 },
       "intellect": { "base": 80, "growth": 2.01 },
@@ -2165,7 +2165,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/沮授.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/沮授.png",
     "attributes": {
       "force": { "base": 35, "growth": 0.42 },
       "intellect": { "base": 90, "growth": 2.33 },
@@ -2195,7 +2195,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/田丰.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/田丰.png",
     "attributes": {
       "force": { "base": 29, "growth": 0.31 },
       "intellect": { "base": 93, "growth": 2.31 },
@@ -2225,7 +2225,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕玲绮.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/吕玲绮.png",
     "attributes": {
       "force": { "base": 88, "growth": 2.38 },
       "intellect": { "base": 37, "growth": 0.96 },
@@ -2255,7 +2255,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/祝融夫人.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/祝融夫人.png",
     "attributes": {
       "force": { "base": 85, "growth": 2.31 },
       "intellect": { "base": 29, "growth": 0.76 },
@@ -2285,7 +2285,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/兀突骨.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/兀突骨.png",
     "attributes": {
       "force": { "base": 86, "growth": 1.82 },
       "intellect": { "base": 1, "growth": 0.01 },
@@ -2315,7 +2315,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/公孙瓒.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/公孙瓒.png",
     "attributes": {
       "force": { "base": 83, "growth": 1.88 },
       "intellect": { "base": 75, "growth": 1.62 },
@@ -2345,7 +2345,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/袁绍.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/袁绍.png",
     "attributes": {
       "force": { "base": 69, "growth": 1.83 },
       "intellect": { "base": 70, "growth": 1.65 },
@@ -2375,7 +2375,7 @@
     "kingdom": "群",
     "cost": 6,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张角.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/张角.png",
     "attributes": {
       "force": { "base": 25, "growth": 0.4 },
       "intellect": { "base": 86, "growth": 2.38 },
@@ -2405,7 +2405,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/高览.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/高览.png",
     "attributes": {
       "force": { "base": 82, "growth": 2.07 },
       "intellect": { "base": 68, "growth": 1.08 },
@@ -2435,7 +2435,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/木鹿大王.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/木鹿大王.png",
     "attributes": {
       "force": { "base": 71, "growth": 1.78 },
       "intellect": { "base": 39, "growth": 0.37 },
@@ -2465,7 +2465,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/李儒.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/李儒.png",
     "attributes": {
       "force": { "base": 26, "growth": 0.31 },
       "intellect": { "base": 83, "growth": 2.1 },
@@ -2495,7 +2495,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/高顺.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/高顺.png",
     "attributes": {
       "force": { "base": 86, "growth": 1.48 },
       "intellect": { "base": 60, "growth": 0.8 },
@@ -2525,7 +2525,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马腾.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/马腾.png",
     "attributes": {
       "force": { "base": 80, "growth": 1.77 },
       "intellect": { "base": 52, "growth": 0.61 },
@@ -2555,7 +2555,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/文丑.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/文丑.png",
     "attributes": {
       "force": { "base": 93, "growth": 2.02 },
       "intellect": { "base": 47, "growth": 0.71 },
@@ -2585,7 +2585,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/华雄.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/华雄.png",
     "attributes": {
       "force": { "base": 92, "growth": 2.39 },
       "intellect": { "base": 61, "growth": 0.81 },
@@ -2615,7 +2615,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/颜良.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/颜良.png",
     "attributes": {
       "force": { "base": 94, "growth": 2.1 },
       "intellect": { "base": 21, "growth": 0.59 },
@@ -2645,7 +2645,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/华佗.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/华佗.png",
     "attributes": {
       "force": { "base": 12, "growth": 0.38 },
       "intellect": { "base": 83, "growth": 2.02 },
@@ -2675,7 +2675,7 @@
     "kingdom": "群",
     "cost": 5,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/左慈.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/左慈.png",
     "attributes": {
       "force": { "base": 10, "growth": 0.33 },
       "intellect": { "base": 94, "growth": 2.35 },
@@ -2705,7 +2705,7 @@
     "kingdom": "群",
     "cost": 4,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/貂蝉.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/貂蝉.png",
     "attributes": {
       "force": { "base": 26, "growth": 0.45 },
       "intellect": { "base": 81, "growth": 1.97 },
@@ -2735,7 +2735,7 @@
     "kingdom": "群",
     "cost": 4,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陈宫.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/陈宫.png",
     "attributes": {
       "force": { "base": 55, "growth": 0.42 },
       "intellect": { "base": 89, "growth": 1.9 },
@@ -2765,7 +2765,7 @@
     "kingdom": "群",
     "cost": 3,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/邹氏.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/邹氏.png",
     "attributes": {
       "force": { "base": 6, "growth": 0.07 },
       "intellect": { "base": 77, "growth": 1.5 },
@@ -2795,7 +2795,7 @@
     "kingdom": "群",
     "cost": 3,
     "rating": 5,
-    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/蔡文姬.jpg",
+    "avatarUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/images/蔡文姬.png",
     "attributes": {
       "force": { "base": 11, "growth": 0.26 },
       "intellect": { "base": 77, "growth": 1.89 },
