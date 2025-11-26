@@ -1,0 +1,1009 @@
+[
+  {
+    "id": "e1",
+    "name": "青龙偃月刀",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/青龙偃月刀.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "武圣：关羽装备时，自带战法发动率增加5%\n龙骧：关兴装备时，标记首次对我军主将造成伤害的目标，自身对该目标造成伤害提高10%"
+  },
+  {
+    "id": "e2",
+    "name": "七星宝刀",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/七星宝刀.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "回响：提高1.5%主动战法发动几率"
+  },
+  {
+    "id": "e3",
+    "name": "倚天剑",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/倚天剑.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "奸雄：曹操装备时，战斗首回合我军群体（2-3人）行动前获得洞察状态，行动后洞察消失。"
+  },
+  {
+    "id": "e4",
+    "name": "青釭剑",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/青釭剑.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "胆略：赵云装备时，提高自身5％会心几率（触发时兵刃伤害提高100%）"
+  },
+  {
+    "id": "e5",
+    "name": "雌雄双股剑",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/雌雄双股剑.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "昭烈：刘备装备时，战斗中普通攻击有12%概率使目标缴械（无法进行普通攻击），持续1回合"
+  },
+  {
+    "id": "e6",
+    "name": "古锭刀",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/古锭刀.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "雄才：孙坚、孙策、孙权装备时，战斗首回合自己获得70%群攻（普通攻击时对目标同部队其他武将造成伤害）"
+  },
+  {
+    "id": "e7",
+    "name": "丈八蛇矛",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/丈八蛇矛.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "雄烈：张飞装备时，战斗前2回合自身获得破阵状态（造成伤害时无视目标的统率和智力）\n虎峙：张苞装备时，首回合提高自带战法15％发动率"
+  },
+  {
+    "id": "e8",
+    "name": "方天画戟",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/方天画戟.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "无双：吕布装备时，战斗首回合自己获得连击状态"
+  },
+  {
+    "id": "e9",
+    "name": "双铁戟",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/双铁戟.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e10",
+    "name": "养由基弓",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/养由基弓.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "弓神：黄忠装备时，战斗前2回合自己获得必中状态（无视规避状态命中国"
+  },
+  {
+    "id": "e11",
+    "name": "白羽扇",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/白羽扇.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "神算：诸葛亮装备时，战斗首回合，我军群体受到谋略攻击的伤害降低7%（受智力影响）"
+  },
+  {
+    "id": "e12",
+    "name": "九节杖",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/九节杖.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "天公：张角装备时，自带战法发动时有70%几率会额外施放一次谋略攻击"
+  },
+  {
+    "id": "e13",
+    "name": "颂瑟",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/颂瑟.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "乐奏：周瑜装备时，提高3％主动战法发动几率"
+  },
+  {
+    "id": "e14",
+    "name": "铁脊蛇矛",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/铁脊蛇矛.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e15",
+    "name": "月牙戟",
+    "type": "Weapon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/月牙戟.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "无惧：张辽装备时，战斗前2回合，自身免疫缴械（无法进行普通攻击）状态"
+  },
+  {
+    "id": "e16",
+    "name": "金丝软甲",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/金丝软甲.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "灵动：战斗首回合自己获得1次抵御"
+  },
+  {
+    "id": "e17",
+    "name": "玄铁连环甲",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/玄铁连环甲.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "灼裂：战斗首回合自己获得反击效果（伤害率125%），该效果最多生效2次。"
+  },
+  {
+    "id": "e18",
+    "name": "八宝夜明铠",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/八宝夜明铠.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "援助：战斗首回合自己会援助所有友军"
+  },
+  {
+    "id": "e19",
+    "name": "紫金狻猊甲",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/紫金狻猊甲.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "周旋：自身兵力首次低于70%时，使自己获得9%倒戈（造成兵刃伤害时，恢复自身基于伤害量的一定兵力），持续2回合"
+  },
+  {
+    "id": "e20",
+    "name": "兽面连环铠",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/兽面连环铠.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e21",
+    "name": "凤翅黄金甲",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/凤翅黄金甲.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "荣光：受到谋略伤害时，有4%几率免疫此次伤害"
+  },
+  {
+    "id": "e22",
+    "name": "吞天麒麟甲",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/吞天麒麟甲.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "活力：提高5%统率"
+  },
+  {
+    "id": "e23",
+    "name": "亮金龙鳞甲",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/亮金龙鳞甲.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "逆鳞：受到伤害时，有3%几率获得10％会心，持续2回合，可叠加2次"
+  },
+  {
+    "id": "e24",
+    "name": "巾帼女衣",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/巾帼女衣.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "长虑：司马懿装备时，提高10%奇谋伤害，并使自身获得攻心的效果提高30%"
+  },
+  {
+    "id": "e25",
+    "name": "锦貂裘",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/锦貂裘.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "佳人：貂蝉装备时，每回合有25%几率恢复一定兵力（回复率100%）"
+  },
+  {
+    "id": "e26",
+    "name": "文绣披",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/文绣披.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "华服：甘宁装备时，提高12%会心伤害"
+  },
+  {
+    "id": "e27",
+    "name": "行商白衣",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/行商白衣.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "乔装：吕蒙装备时，自带战法造成控制的概率提高6%，战斗第2回合，使敌军群体（1-2人）处于遇袭状态"
+  },
+  {
+    "id": "e28",
+    "name": "鎏金盔",
+    "type": "Armor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/鎏金盔.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "擐甲：司马懿装备时，战斗前4回合，受到伤害降低4%"
+  },
+  {
+    "id": "e29",
+    "name": "的卢",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/的卢.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "护主：战斗前2回合自己获得25点统率"
+  },
+  {
+    "id": "e30",
+    "name": "爪黄飞电",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/爪黄飞电.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "出奇：战斗前2回合自己获得25点智力"
+  },
+  {
+    "id": "e31",
+    "name": "绝影",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/绝影.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "突进：战斗前2回合自己获得25点武力"
+  },
+  {
+    "id": "e32",
+    "name": "赤兔",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/赤兔.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "疾驰：战斗前2回合自己获得25点速度"
+  },
+  {
+    "id": "e33",
+    "name": "白鹄",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/白鹄.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e34",
+    "name": "卷毛赤兔马",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/卷毛赤兔马.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e35",
+    "name": "乌云踏雪",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/乌云踏雪.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "赳螑：张飞携带时，第4回合行动前有50%的几率使敌军群体（1-2人）陷入缴械状态，无法进行普通攻击，持续1回合"
+  },
+  {
+    "id": "e36",
+    "name": "追电",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/追电.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e37",
+    "name": "乌骓",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/乌骓.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e38",
+    "name": "蹑景",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/蹑景.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e39",
+    "name": "翻羽",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/翻羽.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e40",
+    "name": "四轮车",
+    "type": "Horse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/四轮车.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "天机：诸葛亮装备时，自带战法的触发几率增加4%"
+  },
+  {
+    "id": "e41",
+    "name": "孙子兵法",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/孙子兵法.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "谋攻：战斗第3回合开始时，对敌军单体造成计穷（无法发动主动战法）效果，持续1回合"
+  },
+  {
+    "id": "e42",
+    "name": "孟德新书",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/孟德新书.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "反间：战斗第3回合开始时，对敌军单体造成混乱（攻击和战法无差别选择目标）效果，持续1回合"
+  },
+  {
+    "id": "e43",
+    "name": "战国策",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/战国策.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e44",
+    "name": "史记",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/史记.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e45",
+    "name": "易经",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/易经.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e46",
+    "name": "庄子",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/庄子.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e47",
+    "name": "诗经",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/诗经.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e48",
+    "name": "礼记",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/礼记.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e49",
+    "name": "青囊书",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/青囊书.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "长健：战斗首回合，己方全体获得急救效果，每次受到伤害时恢复一定兵力（治疗率10％，受智力影响）\n济世：华佗携带时，自带战法施加目标数量20%概率变为我军全体"
+  },
+  {
+    "id": "e50",
+    "name": "太平清领道",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/太平清领道.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "行雨：于吉携带时，兴云布雨的持续回合增加1-2回合"
+  },
+  {
+    "id": "e51",
+    "name": "伤寒杂病论",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/伤寒杂病论.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e52",
+    "name": "遁甲天书",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/遁甲天书.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "奇门：我方仙人获得金丹秘术的规避时，额外获得10%规避"
+  },
+  {
+    "id": "e53",
+    "name": "太平要术",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/太平要术.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "道纲：张角携带时，我方黄巾军和仙人统率属性会增加自身智力属性的6%"
+  },
+  {
+    "id": "e54",
+    "name": "和氏璧",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/和氏璧.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "王道：战斗前2回合，提高自身20%会心（触发时兵刃伤害提高100%）和奇谋几率（触发时谋略伤害提高100％）"
+  },
+  {
+    "id": "e55",
+    "name": "五岳真形图",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/五岳真形图.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e56",
+    "name": "三皇内文",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/三皇内文.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e57",
+    "name": "长生镜",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/长生镜.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": ""
+  },
+  {
+    "id": "e58",
+    "name": "骑兵散记",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/骑兵散记.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "cavalry",
+      "type": "RANK_UP"
+    }
+  },
+  {
+    "id": "e59",
+    "name": "盾兵散记",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/盾兵散记.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "shield",
+      "type": "RANK_UP"
+    }
+  },
+  {
+    "id": "e60",
+    "name": "弓兵散记",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/弓兵散记.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "bow",
+      "type": "RANK_UP"
+    }
+  },
+  {
+    "id": "e61",
+    "name": "枪兵散记",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/枪兵散记.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "spear",
+      "type": "RANK_UP"
+    }
+  },
+  {
+    "id": "e62",
+    "name": "骑兵宝物",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/骑兵宝物.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "cavalry",
+      "type": "MAX_S"
+    }
+  },
+  {
+    "id": "e63",
+    "name": "盾兵宝物",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/盾兵宝物.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "shield",
+      "type": "MAX_S"
+    }
+  },
+  {
+    "id": "e64",
+    "name": "弓兵宝物",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/弓兵宝物.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "bow",
+      "type": "MAX_S"
+    }
+  },
+  {
+    "id": "e65",
+    "name": "枪兵宝物",
+    "type": "Treasure",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/sanguodata/equip_images/枪兵宝物.png",
+    "stats": {
+      "force": 0,
+      "intellect": 0,
+      "command": 0,
+      "speed": 0,
+      "politics": 0,
+      "charm": 0
+    },
+    "description": "",
+    "aptitudeUpgrade": {
+      "troop": "spear",
+      "type": "MAX_S"
+    }
+  }
+]
