@@ -1,104 +1,1262 @@
 [
   {
-    "id": "s1",
+    "id": "sz1",
+    "name": "乱世奸雄",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使友军群体（2人）造成的兵刃伤害和谋略伤害提高8%（受智力影响），自己受到的兵刃伤害和谋略伤害降低9%（受智力影响），如果自己为主将，副将造成伤害时，会为主将恢复其伤害量10%的兵力",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz2",
+    "name": "古之恶来",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "我军主将即将受到普通攻击时，自身对攻击者进行一次猛击（伤害率40%）并使其造成兵刃伤害降低9%，持续1回合，随后为我军主将承担此次普通攻击",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz3",
+    "name": "仁德载世",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "每回合治疗我军群体（2人，治疗率34％，受智力影响），并使其受到伤害降低4％，持续1回合，且有5%概率对敌军单体施加虚弱（无法造成伤害）状态，持续1回合，自身为主将，施加虚弱状态的概率提高至12.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz4",
+    "name": "坐断东南",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，自身及友军单体成功发动普通攻击后，自身有37.5%几率随机获得连击、洞察、先攻、必中、破阵状态的一种，持续2回合，自身为主将时，优先获得不同的状态",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz5",
+    "name": "工神",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前3回合，使我军全体获得先攻（优先行动）状态，我军主将造成伤害提升15%，我军副将造成伤害提升7.5%；第4回合开始，我军全体造成伤害降低15%，持续2回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz6",
+    "name": "青囊",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前4回合，使我军群体（2人）获得20统率（受智力影响）及急救效果，每次受到伤害时有50%几率回复一定兵力（治疗率44％，受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz7",
+    "name": "十胜十败",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前2回合，使我军主将获得洞察（免疫所有控制效果）状态，受到的伤害降低25%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz8",
+    "name": "金丹秘术",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前2回合，使我军全体获得17.5%规避效果，可免疫伤害，并在战斗第3回合开始，获得休整状态（每回合恢复一次兵力，回复率29％，受智力影响），持续3回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz9",
+    "name": "兴云布雨",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗第2回合开始，使敌军全体进入水攻状态，每回合持续造成伤害（伤害率36％，受智力影响），并使其受到伤害增加5％，持续5回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz10",
+    "name": "神机妙算",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "敌军群体（2人）发动主动战法时，有25%几率令其失败并对其造成谋略伤害（伤害率100％，受智力影响），自身为主将时，该次伤害会基于双方智力之差额外提高",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz11",
+    "name": "白衣渡江",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗首回合我军全体获得1次抵御，战斗中，自身造成兵刃伤害时有25%概率使敌军单体缴械（无法进行普通攻击），持续2回合，造成谋略伤害时有25%概率使敌军单体计穷（无法发动主动战法），持续1回合，该效果每回合最多分别触发一次。",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz12",
+    "name": "火神英风",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前2回合，对敌军全体武将分别有7.5%概率（处于灼烧状态的目标有35%概率）发动兵刃攻击（伤害率71%），战斗第3回合时，使我军群体（2-3人）武力提高10（受武力影响）且自身每回合行动前会治疗我军群体（2人），治疗率79%，受武力影响），持续3回合；自身为主将时，兵刃攻击触发概举提高5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz13",
+    "name": "国士将风",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前3回合，使自己及友军单体获得先攻（优先行动）和必中（无视规避状态命中目标）状态，造成的伤害提高10％（受速度影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz14",
+    "name": "金城汤池",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "无法发动普通攻击（无法被净化），每2回合轮流执行：治疗我军群体（2人，治疗率49％，受智力影响）；对敌军群体造成兵刃伤害（伤害率51%）及灼烧状态，每回合持续造成伤害（伤害率36%，受智力影响），持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz15",
+    "name": "济贫好施",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗第2回合时，将自身属性的20%移交给兵力最低友军，第3-5回合时，恢复我军兵力最低单体（治疗率142％，受智力影响）并使其受到伤害降低13％（受智力影响），持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz16",
+    "name": "校胜帷幄",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，提高已方主将7％奇谋几率（受智力影响，触发时谋略伤害提高100％）及20％奇谋伤害，同时为己方主将分担15%的伤害（自身为主将时无效）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz17",
+    "name": "围师必阙",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，当敌军群体（2人）处于溃逃或叛逃状态时压制敌军，使敌军造成的谋略伤害降低19.5%（受统率影响，触发后每回合递减1/3），战斗第2回合，使敌军全体进入叛逃状态（伤害率60％，受武力或智力最高一项影响，无视防御），持续2回合；自身为主将时，谋略伤害降低值提升至22.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz18",
+    "name": "机鉴先识",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备回合使我军群体（2-3人）获得2次警戒，随后每回合有21%概率（受智力影响）使我军群体（2-3人）获得1次警戒（持续3回合，可重复获得4次）：受到的伤害超过自身可携带最大兵力的6%时（最低100兵力），使该次伤害降低20%（受智力影响）并消耗一次警戒：自身为主将时，战斗前2回合，使我军全体受到缴械、计穷、混乱、晨慑状态时，有37.5％概率同时施加给敌军单体，每回合每人最多生效一次",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz19",
+    "name": "经天纬地",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，我军全体发动主动战法及突击战法时，自身有35％概率（受智力影响）会对敌军全体发动谋略攻击（伤害率50％，受智力影响），若由自身触发，则额外有50%概率使我军群体（2人）获得5%攻心（造成谋略伤害时，恢复自身基于伤害量的一定兵力），持续2回合，可叠加3次攻心值；自身为主将时，攻心效果提高至10％",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz20",
+    "name": "垂心万物",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，奇数回合有35%概率（受智力影响）使我军武力最高的武将造成兵刃伤害提高10%（受智力影响，持续到其行动前），若目标不处于连击状态则令其尝试对敌军单体发动一次普通攻击，否则自身对敌军单体造成谋略伤害（伤害率94%，受智力影响），偶数回合有35%概率（受智力影响）恢复我军群体（2人）兵力（治疗率43％，受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz21",
+    "name": "锦囊妙计",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，奇数回合有14%概率（受智力影响），偶数回合有35%概率（受智力影响）使友军单体的自带主动战法发动率提高100%且有12.5%概率跳过1回合准备，持续1回合；自身为主将时，触发时额外对敌军单体造成谋略伤害（伤害率22.5%，受智力及双方智力差影响）并使跳过概率提高至40%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz22",
+    "name": "镇扼防拒",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "每回合有50%概率（受智力影响）使我军单体（优先选除自己之外的副将）援护所有友军并获得休整状态（每回合恢复一次兵力，治疗率96%，受智力影响），持续1回合，同时使其在1回合内受到普通攻击时，有27.5％概率（受智力影响）移除攻击者的增益状态",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz23",
+    "name": "江天长焰",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每回合使敌军全体受到谋略伤害提高2%（受智力影响），可叠加，并有几率（没有一名敌军处于灼烧或水攻状态时，提高2%）对敌军单体造成谋略伤害（伤害率73％，受智力影响）；自身为主将时，基础概率提高至17.5%且该次攻击目标将锁定敌军兵力最低单体",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz24",
+    "name": "傲睨王侯",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，发现15个敌军破绽，破绽会分布在全体敌军中，敌军目标受到普通攻击时会触发一个破绽，使该目标降低1.5%武力、智力、统率、速度（受智力影响），可叠加，单个目标的破绽全部触发时，使其进入1回合虚弱状态且受到伤害提高7.5%（受智力影响），持续2回合，场上所有破绽触发后，敌军群体（2人）武力、智力、统率、速度降低10％（受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz25",
+    "name": "监统震军",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，友军群体造成负面状态时，有19%概率（受智力影响）使负面状态持续时间增加1回合（混乱及伪报不生效），自身普通攻击后，对负面状态最多的敌军单体造成谋略伤害（伤害率57%，受智力影响），若敌军都没有负面状态则为损失兵力最多的我军单体恢复兵力（治疗率46%，受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz26",
+    "name": "窃幸乘宠",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "我军主将恢复兵力且自身不为主将时，降低其10%治疗量，自身会恢复降低的治疗量，奇书回合对敌军群体（2人）造成谋略伤害（伤害率45%，受智力影响），额外对其中智力低于自身的单位造成谋略伤害（伤害率60％，受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz27",
+    "name": "云聚影从",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，自身即将受到普通攻击时，有50％概率（受武力影响）使武力最高的友军单体获得反击效果（伤害率50%）和急救状态，受到伤害时有15%概率恢复自身兵力（治疗率50%，受武力影响），持续1回合，随后使该友军为自身承担此次普通攻击",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz28",
+    "name": "鹰视狼顾",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前4回合，每回合有80%概率使自身获得3.5%攻心或奇谋几率（每种效果最多叠加2次）；第5回合起，每回合有80%概率对1-2个敌军单体造成谋略伤害（伤害率77%，受智力影响）；自身为主将时，获得8％奇谋几率",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz29",
+    "name": "百计多谋",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每回合都有50%几率使随机敌军单体产生逃兵（伤害率70％，受智力影响，无视防御）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz30",
+    "name": "弓腰姬",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "发动普通攻击前对敌军单体造成兵刃伤害（伤害率61%），自身拥有功能性增益状态时额外对其造成兵刃伤害（伤害率10％x状态数）并提高9武力，最多叠加5次",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz31",
     "name": "威震华夏",
     "type": "Active",
     "quality": "S",
     "category": "innate",
-    "description": "准备1回合，对敌军全体进行猛攻（伤害率146%），并使其随机进入缴械或计穷状态，持续1回合，自身为主将时，伤害率提升至160%。",
+    "description": "准备1回合，对敌军全体进行猛攻（伤害率146%），使其有50%概率进入繳械（无法进行普通攻击）、计穷（无法发动主动战法）状态，独立判定，持续1回合，并使自己造成的兵刃伤害提升36%，持续2回合；自身为主将时，造成控制效果的概率提高为65%",
     "triggerRate": "35%",
-    "validTroops": [
-      "cavalry",
-      "shield",
-      "spear"
-    ]
+    "validTroops": []
   },
   {
-    "id": "s2",
+    "id": "sz32",
+    "name": "江东猛虎",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军群体（2人）造成63%兵刃伤害，并嘲讽（强迫目标普通攻击自己），持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz33",
+    "name": "百步穿杨",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，提高自身12.5%会心几率（触发时兵刃伤害提高100%），持续2回合，随后对敌军全体造成兵刃伤害（伤害率90%），若目标处于控制状态，则该次兵刃攻击更为强力（伤害率120%）",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz34",
+    "name": "暗度陈仓",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军单体造成谋略攻击（伤害率260%，受智力影响）并使其进入震慑状态（无法行动），持续2回合",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz35",
+    "name": "天下无双",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军单体发起决斗，决斗双方轮流向对方普通攻击3次，自己率先出手。决斗途中，双方不受缴械和震慑状态影响，并且可以触发群攻状态和突击战法；自身为主将时，决斗后自身受到兵刃伤害降低3.5%（受武力影响），持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz36",
+    "name": "精练策数",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军群体（2-3人）造成谋略攻击（伤害率105%，受智力影响），并缴械（无法进行普通攻击），持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz37",
+    "name": "以逸待劳",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "治疗我军群体（2人，治疗率77%，受智力影响），并使其下3次受到伤害分别降低（25%、18.8%、12.5%，受智力影响），且下次受到控制状态时有25％（受智力影响）几率免疫",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz38",
+    "name": "临战先登",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军群体（2人）造成兵刃攻击（伤害率75%），之后自己进入虚弱状态（无法造成伤害），持续1回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz39",
+    "name": "登锋陷阵",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对目标单体造成兵刃攻击（伤害率104%）并缴械（无法普通攻击），同时使自己的统率降低40%，并进入禁疗（无法恢复兵力）状态，持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz40",
+    "name": "五雷轰顶",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军随机单体造成谋略攻击（伤害率68％，受智力影响）并由30%概率使其进入震慑状态（无法行动），持续1回合，共触发5次，每次独立选择目标；自身为主将时，若目标处于水攻状态、沙暴状态时，每多一种提高20%震慑概率",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz41",
+    "name": "十面埋伏",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对有负面状态的敌军造成谋略攻击（伤害率48%，受智力影响），随后对敌军群体（2人）施加禁疗（无法恢复兵力）及叛逃状态，每回合持续造成伤害（伤害率37%，受武力或智力最高一项影响，无视防御），持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz42",
+    "name": "处兹不惑",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使敌军群体（2人）有30%几率随机获得灼烧（受智力影响）、中毒（受智力影响）、溃逃（受武力影响）状态，每回合持续造成伤害（伤害率70%），每种状态独立判定，持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz43",
+    "name": "持军毅重",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使自己下次受到兵刃伤害提高40％，持续一回合，提高自身28点武力，持续3回合，并对敌军群体（2人）造成猛烈一击（伤害率92％）",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz44",
+    "name": "火烧连营",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军单体施加灼烧状态（伤害率41%，受智力影响，自身为主将时，伤害率提高至49%），持续3回合，随机施放2次。若目标已有灼烧状态则进行焚营：对敌军全体造成谋略伤害（伤害率31％，受智力影响），之后对另一名敌军施加灼烧状态，若处于灼烧状态的目标同一回合内受到两次焚营伤害，则有30%概率进入震慑状态，持续1回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz45",
+    "name": "抬棺决战",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，移除敌军群体（2人）的增益效果，随后造成兵刃攻击（伤害率127.5%）",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz46",
+    "name": "固若金汤",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使自己获得洞察（免疫所有控制效果）状态并嘲讽（强迫目标普通攻击自己）敌军全体，同时提高自身75统率，持续2回合",
+    "triggerRate": "55%",
+    "validTroops": []
+  },
+  {
+    "id": "sz47",
+    "name": "鸩毒",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军单体施加鸩酒，降低其30%武力（受智力影响），持续1回合，1回合后毒发造成谋略攻击（伤害率113%，受智力影响）同时降低其30点统率（受智力影响），可无限叠加，直到战斗结束",
+    "triggerRate": "70%",
+    "validTroops": []
+  },
+  {
+    "id": "sz48",
+    "name": "闭月",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "选择一名敌军为自身分担12.5%（受智力影响）伤害，且当目标为敌军武力最高时进入混乱（攻击和战法无差别选择目标）状态，若为敌军智力最高时进入计穷（无法发动主动战法）状态，否则造成虚弱（无法造成伤害）及禁疗（无法恢复兵力）状态，持续1回合",
+    "triggerRate": "75%",
+    "validTroops": []
+  },
+  {
+    "id": "sz49",
+    "name": "胡笳余音",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "治疗我军群体（2人，治疗率61%，受智力影响）并有50%概率使自身及友军单位造成伤害提高13%（受智力影响）、受到伤害降低13%（受智力影响），独立判定，持续2回合",
+    "triggerRate": "55%",
+    "validTroops": []
+  },
+  {
+    "id": "sz50",
+    "name": "累世立名",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军群体（2人）造成一次兵刃攻击（伤害率63%），降低其12统率（受武力影响）并附加灼烧状态，每回合持续造成伤害（伤害率30%，受智力影响），持续2回合，自身为主将时，额外提高我军全体40统率，持续3回合",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz51",
+    "name": "苦肉计",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对自己造成兵刃伤害（伤害率40%），使敌军单体进入灼烧（伤害率61%，受智力影响）及混乱（攻击和战法无差别选择目标）状态并使自己受到兵刃伤害降低15％，持续2回合",
+    "triggerRate": "55%",
+    "validTroops": []
+  },
+  {
+    "id": "sz52",
+    "name": "搦战群雄",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军群体（2人）造成一次兵刃攻击（伤害率100%），随后使自己造成兵刃伤害提高12.5%，受到兵刃伤害降低12.5%（受武力影响），持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz53",
+    "name": "狮子奋迅",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军单体及额外1-2名敌人造成兵刃攻击（伤害率59%）并使自身主动战法发动几率提高5%（自身为主将时，发动几率提高至7.5%），持续2回合，如果单体目标为敌军主将则使其陷入叛逃状态，每回合持续造成伤害（伤害率51％，受武力或智力最高一项影响，无视防御），持续2回合",
+    "triggerRate": "75%",
+    "validTroops": []
+  },
+  {
+    "id": "sz54",
+    "name": "竭忠尽智",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，使敌军群体（1-2人）速度降低15%（受智力影响）并进入混乱状态（攻击和战法无差别选择目标），持续2回合，并使友方单体获得1次抵御，持续1回合",
+    "triggerRate": "55%",
+    "validTroops": []
+  },
+  {
+    "id": "sz55",
+    "name": "无双上将",
+    "type": "Active",
+    "quality": "B",
+    "category": "innate",
+    "description": "对敌军武力最高的武将造成兵刃攻击（伤害率246%），并获得破阵（造成伤害时无视目标的统率和智力）状态，持续1回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz56",
+    "name": "神机莫测",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使敌军单体混乱2回合，并对自身外的敌我全体依次判定：若未混乱则有25%概率使其混乱2回合；友军已混乱时，解除其负面状态（自身为主将时，提高其6%造成伤害，受智力影响，持续2回合）；敌军已混乱时，对其造成谋略攻击（伤害率87.5％，受智力影响）",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz57",
+    "name": "十二奇策",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "移除敌军群体（1-2）人增益状态，提高我军全体1回合3%主动战法发动几率（受智力影响）并使其下次发动主动战法后，对敌军单体造成谋略伤害（伤害率51％，受智力影响）",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz58",
+    "name": "誓守无降",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，使我军群体（2人）进入洞察（免疫所有控制效果）状态，持续2回合，并使自身2回合内受到下一次谋略伤害时，计穷（无法发动主动战法）敌军主将，持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz59",
+    "name": "振军击营",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军单体造成兵刃伤害（伤害率117.5%）及禁疗（无法恢复兵力）状态，持续3回合，并使有负面状态的友军单体自带战法发动率提高5％，持续1回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz60",
+    "name": "沉断机谋",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使敌军群体（2人）统率、智力降低30%，持续2回合，并造成谋略伤害（伤害率78％，受智力影响）",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz61",
+    "name": "连环计",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军全体施放铁索连环，使其任一目标受到伤害时会反馈7.5％（受智力影响）伤害给其他单位，持续2回合，并发动谋略攻击（伤害率78％，受智力影响）",
+    "triggerRate": "70%",
+    "validTroops": []
+  },
+  {
+    "id": "sz62",
+    "name": "将门虎女",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军群体（2人）造成兵刃伤害（伤害率64%）及虎嗔效果；下1回合受到额外兵刃伤害（伤害率10%，目标每次受到伤害时，伤害率提高15％，最多叠加3次），若目标在虎嗔效果期间受到3次伤害时，立即结算虎嗔效果并额外造成1回合震慑，并使自己造成的兵刃伤害提升4%（兵刃伤書提升效果可叠加）",
+    "triggerRate": "50%",
+    "validTroops": []
+  },
+  {
+    "id": "sz63",
+    "name": "震骇四境",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "发动2次对敌军单体的兵刃攻击（伤害率89%），分别造成使其首次受到兵刃伤害提高15%（受物理影响）及计穷（无法发动主动战法）状态，持续1回合，每次目标独立选择",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz64",
+    "name": "枪舞如风",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使自身及友军单体获得2次抵御，持续1回合，并使自身本回合发动普通攻击后，对敌军造成兵刃伤害（伤害率120%）及掠阵状态：掠阵状态叠加两次时，移除掠阵状态并使自身提高20点武力，可叠加；若与关兴同时出战，则友军单体必定选择关兴",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz65",
+    "name": "刀出如霆",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，自身及友军单体获得15%倒戈，持续2回合，并对敌军造成兵刃伤害（伤害率150%，由敌军全体武将评分，敌军每有1名副将总伤害率提高60％及掠阵状态：掠阵状态叠加两次时，移除掠阵状态并使目标受到兵刃伤害提高15%，可叠加；若与张苞同时出战，友军单体必定选择张苞",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz66",
+    "name": "毒泉拒蜀",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军单体（80%概率选择敌军统率最高的武将）施加猛毒，2回合后消失，拥有猛毒的敌军每次受到普通攻击会叠加一层猛毒，最多叠加3层，层数叠满时会立即消失并清楚自身所有战法冷却时间，猛毒消失时会对敌军全体造成谋略伤害（伤害率75%，每有一层猛毒伤害率提高20%，受智力影响），我方蛮族造成的非普通伤害也会增加猛毒层数，该战法发动后会进入1回合冷却。",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz67",
+    "name": "顾盼生姿",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "偷取敌军一名男性武将17.5点智力给自身和友军单体（受魅力影响）持续2回合，可叠加2次",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz68",
+    "name": "勇冠三军",
+    "type": "Assault",
+    "quality": "S",
+    "category": "innate",
+    "description": "普通攻击之后，对攻击目标再次发起猛攻（伤害率90%），并使其进入震慑状态（无法行动），持续1回合",
+    "triggerRate": "40%",
+    "validTroops": []
+  },
+  {
+    "id": "sz69",
+    "name": "将行其疾",
+    "type": "Assault",
+    "quality": "S",
+    "category": "innate",
+    "description": "普通攻击之后，对随机敌军单体发动一次兵刃攻击（伤害率158%）；若命中敌军主将，则使其进入计穷（无法发动主动战法）状态，持续2回合",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz70",
+    "name": "燕人咆哮",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗第2、4回合，对敌军全体造成兵刃攻击（伤害率52%）；若目标处于缴械状态，则额外使目标统率降低25%，持续2回合，自身为主将时，降低统率效果额外对计穷状态的目标生效",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz71",
+    "name": "一身是胆",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使自己获得洞察状态（免疫所有控制效果），武力、智力、速度、统率提升20点，自身为主将时，提升值为25点",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz72",
+    "name": "江东小霸王",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，普通攻击后有35%几率对目标再次发起猛攻（伤害率96%）并为我军单体恢复兵力（治疗率28%，受武力影响）；自身为主将时，战斗前2回合，使敌军单体首次受到伤害提高15%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz73",
+    "name": "槊血纵横",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使自己获得17点武力及27%群攻（普通攻击时对目标同部队其他武将造成伤害）效果，自身为主将时，群攻值为30％",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz74",
+    "name": "虎痴",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每回合选择一名敌军单体，自身发动的所有攻击都会锁定该目标，对其造成的伤害提高16.5%，如果击败目标会使自身获得破阵状态（造成伤害时无视目标的统率和智力），直到战斗结束",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz75",
+    "name": "刚烈不屈",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使自己统率提升19点，受到兵刃伤害时有40%几率对敌军群体（2人）造成兵刃伤害（伤害率42%）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz76",
+    "name": "锦帆百翎",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，提高自身25%会心几率（触发时兵刃伤害提高100％）及10%会心伤害；自身为主将时，提高友军群体（2人）2.5％会心几率及5％会心伤害",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz77",
+    "name": "神射",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使自己获得连击状态，每回合可以普通攻击2次，并使普通攻击目标统率降低5，可叠加，持续2回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz78",
+    "name": "勇烈持重",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "受到伤害时，有20%~35%概率净化自己负面效果，同时使随机敌军进入震慑状态（无法行动），持续1回合，该效果每回合最多触发一次",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz79",
+    "name": "神火计",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每次成功发动主动战法时，有40%几率对敌军全体造成谋略攻击（伤害率34%，受智力影响）；自身为主将时，该次攻击有20%概率对目标施加灼烧状态（伤害率34%，受智力影响），持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz80",
+    "name": "长驱直入",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每次造成兵刃伤害后，使自己造成的兵刃伤害提升7.5%，最大叠加5次",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz81",
+    "name": "酒池肉林",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每回合使自身兵力减少（1%x回合数），同时每回合获得4%倒戈（造成兵刃伤害时，恢复自身基于伤害量的一定兵力）及15点武力，自身为主将时，战斗第5回合起，若我军副将存活，每回合对敌我全体造成兵刃伤害（伤害率30％）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz82",
+    "name": "南蛮渠魁",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每回合行动时有24.5%几率对敌军全体造成兵刃伤害（伤害率53%），若未生效则提高7%发动概率，自身受到7次普通攻击后会进入1回合震慑（无法行动）状态；自身为主将时，每回合有15%（部队每多1名蛮族武将额外提高15%）概率使全体蛮族造成的伤書提高15%（受自身损失兵力影响，最多80%），持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz83",
+    "name": "符命自立",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗前2回合中任一回合，自身获得玉玺，提高50%会心几率及奇谋几率，每回合逐渐降低，直至第8回合降至0，自身为主将时，提高主动战法发动几率（12%，准备战法为17.5%），同样为逐渐降低",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz84",
+    "name": "义胆雄心",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，奇数回合会对敌军单体造成92%兵刃伤害并降低武力32点，持续2回合，偶效回合会对敌军群体（2人）造成38%谋略伤害（受智力影响）并降低智力17点，持续2回合；自身为主将时，降低属性效果受自身对应属性影响",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz85",
+    "name": "肉身铁壁",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，为友军承担（15%，友军主将为30%）的伤害结果（承担的兵刃伤害额外受自身统率影响降低），当友军兵力高于70%时，使其造成的伤害提高12%（受统率影响），若主将为孙权，造成伤害提高的基础值增加至20%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz86",
+    "name": "陷阵突袭",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使自己的普道攻击目标有34%几率锁定为敌军主将，自身突击战法的发动几率提高7.5%井使自己成功发动突击战法后，对目标额外发动一次兵刃攻击（伤害率47.5%；自身为主将时，获得3%倒戈",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz87",
+    "name": "奋矛英姿",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "每次普通攻击后，降低敌方7.5统率，将其转化为自身的武力，直到战斗结束，每第4次普通攻击时，伤害提高50%并对敌军全体造成伤害",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz88",
+    "name": "鸱苕凤姿",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "普通攻击伤害提高30%（受目标损失兵力影响），战斗第5回合时，锁定敌方兵力最低单体直到战斗结束，并且普通攻击时有35%概率使目标进入禁疗（无法恢复兵力）状态，持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz89",
+    "name": "高橹连营",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗开始时，架起箭楼，填装10次（次数为0时将失效），每回合发射2次，有50%概率（受武力影响）额外发射1次，对敌军单体造成兵刃伤害（每次目标独立选择，伤害率41%）并有50%概率使其受到伤害提高3%，可叠加2次，首回合额外造成缴械效果，每回合有37.5%概率无法普通攻击，持续2回合；自身为主将时，每回合会填装1次",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz90",
+    "name": "才辩机捷",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "使自身施加的灼烧、水攻、中毒、溃逃、沙暴、叛逃状态伤害提高45%，休整和急救的恢复量提高15%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz91",
+    "name": "奇兵间道",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，自身发动准备战法时，有75%几率（受武力影响）减少1回合准备时间，战斗前4回合，主动战法造成的伤害提高15%（受武力影响），第5回合时，若自身兵力低于50%，获得22.5%倒戈，直到战斗结束",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz92",
+    "name": "溯江摇橹",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每回合有25%概率净化自身，自身造成伤害时，有17.5%概率使随机敌军单体进入计穷或震慑状态，持续1回合，每回合最多触发1次，受到伤害时，有30%概率对敌军单体造成对应类型的伤害（伤害率25%，受对应属性影响）；自身为主将时，净化的触发概率提高5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz93",
+    "name": "象兵-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将骑兵进阶为横行无忌的象兵：部队基础攻城值提高25%但行军速度降低50％，将受到伤害的25%延后于3回合内逐步结算，且结算伤害降低10%，自身灼烧时，获得50%群攻及混乱；若蛮族统领，部队每多1名蛮族武将结算的伤害额外降低5%",
+    "triggerRate": null,
+    "validTroops": ["cavalry"]
+  },
+  {
+    "id": "sz94",
+    "name": "西凉铁骑-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将骑兵进阶为横行天下的西凉铁骑：战斗前3回合，提高我军全体12.5%会心几率（触发时兵刃伤害提高100%）；若马腾统领，则提高会心几率受速度影响",
+    "triggerRate": null,
+    "validTroops": ["cavalry"]
+  },
+  {
+    "id": "sz95",
+    "name": "虎豹骑-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将骑兵进阶为天下骁锐的虎豹骑：我军全体提高20武力，战斗前3回合，我军全体突击战法发动率提高5％，若曹纯统领时，提升的发动概率额外受武力影响",
+    "triggerRate": null,
+    "validTroops": ["cavalry"]
+  },
+  {
+    "id": "sz96",
+    "name": "藤甲兵-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将盾兵进阶为刀枪不入的藤甲兵：我军全体受到兵刃伤害降低12%（受统率影响），但处于灼烧状态时每回合额外损失兵力（伤害率300%）；若兀突骨统领，则处于灼烧状态时的损失兵力降低（伤害率250%）",
+    "triggerRate": null,
+    "validTroops": ["shield"]
+  },
+  {
+    "id": "sz97",
+    "name": "陷阵营-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将盾兵进阶为无往不利的陷阵营：我军全体武力、统率提高11点，战斗前3回合获得急救状态，受到伤害时有30%概率获得治疗（治疗率30％，受智力影响）；若高顺统领，则治疗率将额外受统率影响",
+    "triggerRate": null,
+    "validTroops": ["shield"]
+  },
+  {
+    "id": "sz98",
+    "name": "白马义从-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将弓兵进阶为弓马娴熟的自马义从：部队行军速度提高25%，我军全体战斗前2回合获得先攻（优先行动）并提高5%主动战法发动率；若公孙瓒统领，提高发动率受速度影响",
+    "triggerRate": null,
+    "validTroops": ["bow"]
+  },
+  {
+    "id": "sz99",
+    "name": "无当飞军-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将弓兵进阶为矢不虚发的无当飞军：我军全体统率、速度提高11点，首回合对敌军群体（2人）施加中毒状态，每回合持续造成伤害（伤害率40％，受智力影响），持续3回合；若王平统领，对敌军全体施加中毒状态，但伤害率降低（伤害率33％，受智力影响）",
+    "triggerRate": null,
+    "validTroops": ["bow"]
+  },
+  {
+    "id": "sz100",
+    "name": "白毦兵-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将枪兵进阶为攻无不破的白毦兵：我军全体战斗中普通攻击后有20％概率对攻击目标再次发起一次谋略攻击（伤害率55%，受智力影响）；若陈到统领，则谋略攻击更为强力（伤害率65％，受智力影响）",
+    "triggerRate": null,
+    "validTroops": ["spear"]
+  },
+  {
+    "id": "sz101",
+    "name": "大戟士-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将枪兵进阶为横冲直撞的大戟士：我军全体武力提高7点，进行普通攻击时，有35%儿率对敌军单体造成兵刃伤害（伤害率61%）；若张郃统领，则发动几率提高为40%",
+    "triggerRate": null,
+    "validTroops": ["spear"]
+  },
+  {
+    "id": "sz102",
+    "name": "清流雅望",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为冶铁官时，铁矿产量提升1.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz103",
+    "name": "功勋克举",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为主政官时，全资源产量提升1.3%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz104",
+    "name": "国色",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为贸易官时，贸易比例提升1.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz105",
+    "name": "花容月貌",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为练兵使时，练兵获得经验提升3%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz106",
+    "name": "七步成诗",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为锻造官时，提升锻造出高阶装备的几率4.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz107",
+    "name": "水镜先生",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为寻访使时，提升寻出高阶奖励的几率4.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz108",
+    "name": "克遵画一",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为采石官时，石料产量提升1.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz109",
+    "name": "王佐之才",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "提升武将36政治",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz110",
+    "name": "奇施经略",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为税务官时，铜币产量提升1.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz111",
+    "name": "天香",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "提升武将13.5%魅力",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz112",
+    "name": "戮力上国",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "委任为主政官时，城建设施升级时间降低15%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz113",
+    "name": "晓知良木",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为木材官时，木材产量提升1.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx1",
+    "name": "舌战群儒",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "敌军尝试发动主动战法时，有15%几率令其发动几率降低5%（受智力影响），并提高自己及随机友军主动战法2％（受智力影响）发动几率，持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx2",
+    "name": "义心昭烈",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗中，自身造成治疗效果时，使目标受到主动战法伤害降低7％（受智力影响），持续1回合，当自身兵力首次低于30%时，使我军全体受到伤害时会分摊25%伤害，持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx3",
+    "name": "梦中弑臣",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗前2回合，如果自己为主将，则使随机副将为自己分担20%伤害。战斗第3回合起，自己行动时如果有负面状态，则获得25%概率反击状态（伤害率150%），直到战斗结束",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx4",
+    "name": "横戈跃马",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗前3回合，使双方全体造成的谋略伤害降低15%，造成的普通攻击及突击战法伤害提升10%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx5",
+    "name": "奇计良谋",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗前3回合，使敌军武力最高的武将造成兵刃伤害降低14%（受速度影响），使敌军智力最高的武将造成的谋略伤害降低14％（受速度影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx6",
+    "name": "盛气凌敌",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗开始后前2回合，使敌军群体（2人）每回合都有45%的几率陷入缴械状态，无法进行普通攻击",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx7",
+    "name": "挫锐",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗前3回合，使敌军单体进入虚弱状态，造成伤害时有32.5%几率无法造成伤害",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx8",
+    "name": "守而必固",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗开始时，嘲讽敌军主将（强迫目标普通攻击自己），并使自己的统率提升20点，持续4回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx9",
+    "name": "暂避其锋",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗开始后前3回合，使我军智力最高的武将受到兵刃伤害降低20%（受智力影响），使我军武力最高的武将受到的谋略伤害降低20％（受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx10",
+    "name": "用武通神",
+    "type": "Command",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "战斗开始的第2、4、6、8回合，对敌军群体（2人）逐渐造成37.5%、52.5%、67.5%、82.5%谋略伤害（受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sx11",
     "name": "熯天炽地",
     "type": "Active",
     "quality": "S",
     "category": "inheritable",
     "description": "准备1回合，对敌军全体施放火攻（伤害率51%，受智力影响），并施加灼烧状态，每回合持续造成伤害（伤害率36％，受智力影响），持续2回合",
     "triggerRate": "40%",
-    "validTroops": [
-      "cavalry",
-      "bow",
-      "spear",
-      "shield",
-      "siege"
-    ]
-  },
-  {
-    "id": "s3",
-    "name": "燕人咆哮",
-    "type": "Passive",
-    "quality": "S",
-    "category": "innate",
-    "description": "战斗第2、4回合，对敌军全体造成兵刃攻击（伤害率52%）；若目标处于缴械状态，则额外使目标统率降低25%，持续2回合，自身为主将时，降低统率效果额外对计穷状态的目标生效",
-    "triggerRate": "",
-    "validTroops": [
-      "cavalry",
-      "bow",
-      "spear",
-      "shield",
-      "siege"
-    ]
-  },
-  {
-    "id": "s4",
-    "name": "古之恶来",
-    "type": "Command",
-    "quality": "S",
-    "category": "innate",
-    "description": "我军主将即将受到普通攻击时，自身对攻击者进行一次猛击（伤害率40%）并使其造成兵刃伤害降低9%，持续1回合，随后为我军主将承担此次普通攻击",
-    "triggerRate": "",
     "validTroops": []
   },
   {
-    "id": "s5",
-    "name": "折冲御侮",
-    "type": "Assault",
-    "quality": "S",
-    "category": "inheritable",
-    "description": "普通攻击之后，使随机敌军单体降低100点统率和智力，持续2回合；若自己不是主将，则额外使我军主将获得2次抵御，可免疫伤害，持续2回合",
-    "triggerRate": "10~45%",
-    "validTroops": []
-  },
-  {
-    "id": "s6",
-    "name": "八门金锁阵",
-    "type": "Formation",
-    "quality": "S",
-    "category": "inheritable",
-    "description": "战斗前3回合，使敌军群体（2人）造成的伤害降低15%（受智力影响），并使我军主将获得先攻状态（优先行动）",
-    "triggerRate": "",
-    "validTroops": []
-  },
-  {
-    "id": "s7",
-    "name": "横扫千军",
+    "id": "sx12",
+    "name": "瞋目横矛",
     "type": "Active",
     "quality": "S",
     "category": "inheritable",
-    "description": "对敌军全体造成50%兵刃伤害，若目标已处于缴械或计穷状态则有20%概率使目标处于震慑状态（无法行动），持续1回合",
-    "triggerRate": "45%",
-    "validTroops": [
-      "cavalry",
-      "bow",
-      "spear",
-      "shield",
-      "siege"
-    ]
+    "description": "使自己武力提升25点，并获得群攻（普通攻击时对目标同部队其他武将造成伤害）效果（伤害率35%），持续2回合",
+    "triggerRate": "40%",
+    "validTroops": ["cavalry", "shield", "spear", "siege"]
   },
   {
-    "id": "s8",
-    "name": "虎卫军",
-    "type": "Troop",
+    "id": "sx13",
+    "name": "黄天泰平",
+    "type": "Active",
     "quality": "S",
     "category": "inheritable",
-    "description": "将盾兵进阶为善固疆场的虎卫军：战斗中，我军主将即将受到普攻时，副将提高6武力，最多提高5次，并会分别对攻击者造成兵刃伤害（伤害率36%，受各自损失兵力影响，最多提高20%），每回合最多触发1次，若典韦或许褚统领，自身统率提高25",
-    "triggerRate": "",
+    "description": "准备1回合，以自己进入混乱（攻击和战法无差别选择目标）状态为代价，使敌军群体（2人）进入计穷（无法发动主动战法）状态，持续2回合",
+    "triggerRate": "40%",
     "validTroops": []
-  }
+  },
 ]
