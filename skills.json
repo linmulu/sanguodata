@@ -1267,7 +1267,7 @@
     "category": "inheritable",
     "description": "偷取敌军单体19点武力、智力、速度、统率（受智力影响），持续2回合，可叠加2次",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx15",
@@ -1277,7 +1277,7 @@
     "category": "inheritable",
     "description": "对敌军群体（2人）发动一次兵刃攻击（伤害率48%，并有25%几率（根据自身连击、洞察、先攻、必中、破阵的状态数，每多一种提高5%几率）造成震慑（无法行动）状态，持续1回合",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx16",
@@ -1287,7 +1287,7 @@
     "category": "inheritable",
     "description": "为损失兵力最多的我军单体清除负面状态并为其恢复兵力（治疗率128％，受智力影响）",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx17",
@@ -1297,7 +1297,7 @@
     "category": "inheritable",
     "description": "准备1回合，使敌军群体（1-2人）进入混乱状态（攻击和战法无差别选择目标）并有50%概率使我军群体（2人）受到伤害降低8%，持续2回合，自身为女性时，必定选择敌军群体（2人）",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx18",
@@ -1307,7 +1307,7 @@
     "category": "inheritable",
     "description": "对敌军单体造成谋略伤害（伤害率103％，受智力影响），若目标处于混乱状态则使目标对其友军单体发动攻击（伤害率93%，类型取决于目标武力、智力较高的一项），否则施加混乱（攻击和战法无差别选择目标）状态，持续1回合。",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx19",
@@ -1317,7 +1317,7 @@
     "category": "inheritable",
     "description": "对敌军单体造成一次兵刃攻击（伤害率105%）及谋略攻击（伤害率90%，受智力影响）",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx20",
@@ -1337,7 +1337,7 @@
     "category": "inheritable",
     "description": "恢复自身兵力（治疗率134%）并提高10.5统率，最多叠加2次，持续3回合；自身为副将时，兵力恢复受武力影响",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx22",
@@ -1357,7 +1357,7 @@
     "category": "inheritable",
     "description": "准备1回合，使敌军群体（2人）统率、智力降低40点（受武力影响），持续2回合，并对其发动一次兵刃攻击（伤害率79％）",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx24",
@@ -1367,7 +1367,7 @@
     "category": "inheritable",
     "description": "准备1回合，对敌军群体（2人）发动一次谋略攻击（伤害率76.5%），并为我军群体（2人）恢复一定兵力（回复率51％，受智力影响）",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx25",
@@ -1377,7 +1377,7 @@
     "category": "inheritable",
     "description": "准备1回合，对敌军群体（2人）施加中毒状态，每回合持续造成伤害（伤害率72％，受智力影响），持续2回合",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx26",
@@ -1387,7 +1387,7 @@
     "category": "inheritable",
     "description": "准备1回合，对敌军群体（2人）施加水攻状态，每回合持续造成伤害（伤害率63％，受智力影响），并使其受到的谋略伤害提升25％，持续2回合",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx27",
@@ -1397,7 +1397,7 @@
     "category": "inheritable",
     "description": "准备1回合，对敌军群体（2人）施加沙暴状态，每回合持续造成伤害（伤害率63%，受智力影响），并使其受到的兵刃伤害提升25％，持续2回合",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx28",
@@ -1407,7 +1407,7 @@
     "category": "inheritable",
     "description": "准备1回合，使敌军主将进入虚弱（无法造成伤害）状态，持续2回合，并使我军主将进入休整状态（每回合恢复一次兵力，回复率54％，受智力影响），持续2回合",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx29",
@@ -1417,7 +1417,7 @@
     "category": "inheritable",
     "description": "使自己及友军单体进入连击（每回合可以普通攻击2次）状态，持续1回合",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx30",
@@ -1427,7 +1427,7 @@
     "category": "inheritable",
     "description": "对敌军单体造成谋略伤害（伤害率77%，受智力影响）；若目标处于灼烧状态，额外对目标造成一次谋略伤害（伤害率99％，受智力影响）",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx31",
@@ -1437,7 +1437,7 @@
     "category": "inheritable",
     "description": "使敌军群体（2人）的武力、智力降低19（受智力影响），持续2回合，最多叠加2次",
     "triggerRate": "40%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx32",
@@ -1447,7 +1447,7 @@
     "category": "inheritable",
     "description": "对敌军全体造成50%兵刃伤害，若目标已处于缴械或计穷状态则有20%概率使目标处于震慑状态（无法行动），持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx33",
@@ -1467,7 +1467,7 @@
     "category": "inheritable",
     "description": "选择一名异性友军，持续2回合，目标受到治疗效果或功能性增益状态时，自身有45%概率获得相同效果（治疗效果为50％）",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx35",
@@ -1477,7 +1477,7 @@
     "category": "inheritable",
     "description": "使敌军智力最高单体智力降低20%，并有70%概率使自身本回合非自带主动战法发动率提高100%，持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx36",
@@ -1487,7 +1487,7 @@
     "category": "inheritable",
     "description": "降低敌军单体35点统率（受武力影响），持续2回合，并对其造成兵刃伤害（伤害率114%）",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx37",
@@ -1497,7 +1497,7 @@
     "category": "inheritable",
     "description": "对敌军单体造成谋略伤害（伤害率113%，受智力影响）及震慑状态（无法行动）并有40%概率使其受到谋略伤害提高6％（受智力影响），持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx38",
@@ -1507,7 +1507,7 @@
     "category": "inheritable",
     "description": "对敌军群体（2人）施加中毒状态，每回合持续造成伤害（伤害率60%，受智力影响），持续2回合，若敌军已有中毒状态，则使其随机获得灼烧（受智力影响）、叛逃（受武力或智力最高一项影响，无视防御）、沙暴（受智力影响）状态中的一种，每回合持续造成伤害（伤害率60%），持续2回合，该战法发动后会进入1回合冷却",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx39",
@@ -1517,7 +1517,7 @@
     "category": "inheritable",
     "description": "准备1回合，对敌军群体（2人）施加虚弱（无法造成伤害）状态，持续2回合；如果目标已处于虚弱状态则使其陷入叛逃状态，每回合持续造成伤害（伤害率79%，受武力或智力最高一项影响，无视防御），持续2回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx40",
@@ -1527,7 +1527,7 @@
     "category": "inheritable",
     "description": "嘲讽敌军全体，自身即将受到普通攻击时，治疗我军随机单体（治疗率30％，受受武力或智力最高一项影响），持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx41",
@@ -1537,7 +1537,7 @@
     "category": "inheritable",
     "description": "使敌军兵力最高单体嘲讽我军全体，并使其受到伤害提高20%，持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx42",
@@ -1547,7 +1547,7 @@
     "category": "inheritable",
     "description": "普通攻击之后，对攻击目标再次发起一次兵刃攻击（伤害率196%），并使其进入混乱状态（攻击和战法无差别选择目标），持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx43",
@@ -1557,7 +1557,7 @@
     "category": "inheritable",
     "description": "普通攻击之后，对敌军全体发动一次兵刃攻击（伤害率36%）；自身为主将时，该次兵刃攻击更为强力（伤害率54%）",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx44",
@@ -1577,7 +1577,7 @@
     "category": "inheritable",
     "description": "普通攻击之后，使随机敌军单体降低100点统率和智力，持续2回合；若自己不是主将，则额外使我军主将获得2次抵御，可免疫伤害，持续2回合",
     "triggerRate": "10~45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx46",
@@ -1587,7 +1587,7 @@
     "category": "inheritable",
     "description": "普通攻击之后，对攻击目标再次造成一次谋略伤害（伤害率90％，受智力影响）；若目标处于溃逃或中毒状态，则有70%概率使目标进入虚弱（无法造成伤害）状态，持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx47",
@@ -1597,7 +1597,7 @@
     "category": "inheritable",
     "description": "普通攻击之后使自己获得1次抵御，可免疫伤害，并使下一个主动战法的伤害提升40%",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx48",
@@ -1607,7 +1607,7 @@
     "category": "inheritable",
     "description": "普通攻击之后，对攻击目标再次造成一次谋略攻击（伤害率72.5%，受智力影响）并使自身主动战法的发动几率提高7.5％，持续1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx49",
@@ -1617,7 +1617,7 @@
     "category": "inheritable",
     "description": "普通攻击之后，对目标发动一次兵刃攻击（伤害率92.5%）并计穷（无法发动主动战法）1回合",
     "triggerRate": "45%",
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx50",
@@ -1627,7 +1627,7 @@
     "category": "inheritable",
     "description": "战斗前3回合，无法进行普通攻击但获得15%概率规避效果，第4回合提高自己34点智力并对敌军全体造成谋略伤害（伤害率90％，受智力影响）",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx51",
@@ -1637,7 +1637,7 @@
     "category": "inheritable",
     "description": "战斗中，每回合使自身造成伤害提高5.5%，可叠加，直到战斗结束",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx52",
@@ -1647,7 +1647,7 @@
     "category": "inheritable",
     "description": "战斗中，使自己获得休整状态，每回合恢复一定兵力（回复率62%）",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx53",
@@ -1657,7 +1657,7 @@
     "category": "inheritable",
     "description": "自己受到普通攻击时，有22.5%几率使攻击者进入混乱（攻击和战法无差别选择目标）、计穷（无法发动主动战法）、虚弱（无法造成伤害）状态的一种，持续1回合，自身为女性时，触发几率额外受智力影响",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx54",
@@ -1667,7 +1667,7 @@
     "category": "inheritable",
     "description": "战斗中，自己每次造成谋略伤害时，增加15点智力，最多叠加5次；每次造成兵刃伤害时，增加15点武力，最多叠加5次",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx55",
@@ -1677,7 +1677,7 @@
     "category": "inheritable",
     "description": "战斗中，自己累积进行第3次普通攻击时，对攻击目标造成谋略伤害（伤害率120％，受智力影响），并治疗自己（治疗率90％，受智力影响）",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx56",
@@ -1697,7 +1697,7 @@
     "category": "inheritable",
     "description": "提高自带主动战法10%伤害，成功发动自带主动战法前，50%概率对敌方群体（2-3人）造成兵刃伤害（伤害率60％）",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx58",
@@ -1827,7 +1827,7 @@
     "category": "inheritable",
     "description": "战斗前3回合，使敌军群体（2人）造成的伤害降低15%（受智力影响），并使我军主将获得先攻状态（优先行动）",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx71",
@@ -1847,7 +1847,7 @@
     "category": "inheritable",
     "description": "战斗前3回合，使敌军主将造成伤害降低20％（受武力影响），并使我军随机副将受到兵刃伤害降低9％，另一名副将受到谋略伤害降低9％",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   },
   {
     "id": "sx73",
@@ -1857,6 +1857,6 @@
     "category": "inheritable",
     "description": "提升武将15政治",
     "triggerRate": null,
-    "validTroops": ["cavalry", "shield", "bow", "spear", "siege"]
+    "validTroops": []
   }
 ]
