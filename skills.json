@@ -301,6 +301,196 @@
   },
   {
     "id": "sz31",
+    "name": "虎侯",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，友军群体发动或受到普通攻击时，自身有22.5%-45%概率使我军全体统率提升7.5-15.点，可叠加5次，持续2回合，并对敌军单体造成兵刃伤害（伤害率33%-66％）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz32",
+    "name": "渊然难测",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，我军群体（2-3人）受到普通攻击时，有25%一50%概率（受统率影响，自身为主将时，基础概率提升至30%-60%）使伤害来源受到伤害提升3%一6%（受统率影响），可叠加3次；首回合触发时，若伤害来源武将武力高于智力，则使其进入缴械状态，否则使其进入计穷状态，持续2回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz33",
+    "name": "至柔动刚",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，敌我全体普通攻击伤害降低17.5%一35%，自身受到伤害时有25%一50%概率（受智力影响）偷取伤害来源5-10点属性（智力、统率、速度中的随机一种，受智力影响，可叠加，持续5回合）；我军全体普通攻击后，自身有25%-50%概率（受智力影响）对敌军单体造成一次谋略伤害（伤害率53%一106％，受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz34",
+    "name": "虚实奇谋",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中,若我军主将当前兵种适性为A，则使其战斗属性提升4→8%(受智力影响)，若为S，则使其自带主动战法发动率提升4-8%(受智力影响):且每回合有25-50%概率(受智力影响)使我军群体(2-3人)进入1回合刚毅状态:17.5→35%概率(受智力影响)不受负面状态影响。",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz35",
+    "name": "密计诛逆",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，我军主将造成伤害（大于300）后，有25%一50%概率使敌军单体造成最终伤害降低7.5%一15%（受统率影响，持续2回合，可叠加3次），且前2回合有25%一50%概率（受统率影响）今主将对敌军全体造成1次兵刃伤害（伤害率12.5%—25%，受主将统率影响）；战斗第6回合，自身对敌军单体造成斩杀伤害（伤害率100%+12.5%-25%*最终降伤施加次数）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz36",
+    "name": "蕙质兰心",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，我军全体统率提升10-120（受各自智力影响），且自身获得7层兰心效果，每层使自身造成和受到伤害降低5%-10%；自身受到伤害时，消耗1层兰心效果并有50%概率（受智力影响）治疗我军单体（治疗率111%-222%，受智力影响），兰心首次降至4层时，敌我全体造成的兵刃伤害降低10%一20%（受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz37",
+    "name": "奉令平虏",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，友军获得功能性增益时有17.5%-35%概率（受统率影响，自身为主将时基础值提升至20%一40%）延长1回合；此效果每触发3次，治疗友军单体（治疗率20%-40%，受已损兵力影响）且若友军智力高于武力则获得5%一10％攻心，否则获得5%-10%倒戈，持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz38",
+    "name": "淑懿之德",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，我军主将每拥有1种功能性状态，使其智力、統率提升1.5%-3%（受智力影响）；第3回合起，每回合有25%一50%概率（受智力影响）使其对敌军单体造成1次谋略伤害（伤害率12.5%—25%*功能性增益状态数）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz39",
+    "name": "挥兵谋胜",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，每当我军抵御被消耗时，使我军单体恢复一定兵力（治疗率47%-94%，受智力影响），抵御持续时间结束但未消耗时，使我军武力最高武将对敌军随机武将发动一次兵刃攻击（伤害率47%-94%）；战斗前3回合，每回合有30%-*60%概率（受智力影响，自身为主将时，基础概率提升至70%）使我军群体（2-3人）获得1次抵御，持续1回合",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz40",
+    "name": "国之桢干",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，我军全体统率提升（提升值相当于自身统率的10%一20%）并获得5%一10%倒戈和攻心（受统率影响）；且敌军每有一个指挥或被动战法，我军群体（2-3人）受到兵刃伤害降低1.5%-3%（受统率影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz41",
+    "name": "离月",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，自身受到治疗时，有40%概率（受智力影响）洽疗友军单体（洽疗率68%，受智力影响），每回合最多触发5次；友军受到治疗时，有40%概率（受智力和魅力影响）使其受到伤害降低3%（受智力影响），可叠加5次，持续2回合：第3回合起，自身行动后对敌军单体造成谋略伤害（伤害率68%，受自身造成溢出治疗量影响，触发后重置累计进度）。",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz42",
+    "name": "权僭九鼎",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，敌军受到治疗时，有50%概率（受統率影响）将其中12%（受统率影响）转移到自身；自身受到治疗时，有50%概率（受统率影响）提升5点统率和智力（受统率影响），可叠加99次；",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz43",
+    "name": "扶危定倾",
+    "type": "Command",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗首回合，使我军全体受到伤害降低19.5%-39%（受自身最高属性影响，自身为主将时，基础值提升至21%-42%）；自身每回合有20%-40%概率（受统率影响）清除我军主将的负面状态并使其武力、智力、統率提升1.5%一3%（受智力影响，可叠加，持续2回合）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz44",
+    "name": "同战身先",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "使我军全体获得1次抵御，并使我军随机武将1回合内受到普通攻击后有17.5%一35%概率（受统率影响）对敌军单体造成一次兵刃伤害（伤害率10%一20%，可触发由普通攻击触发的效果）；该战法每次发动后发动率降低10%但自身速度提升10%一20%",
+    "triggerRate": "70%",
+    "validTroops": []
+  },
+  {
+    "id": "sz45",
+    "name": "水淹七军",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "对敌军群体（2人）施加水攻效果（伤害率96%，受武力影响，自身为主将时，伤害率提升至108%），持续2回合；第二次及之后施放前，使敌军群体（2-3人）受到兵刃伤害提升20%（受武力影响），持续1回合；第三次及之后施放时，有40%概率（受武力影响）立即结算敌军全体身上的水攻伤害且不清除状态；第四次施放后，对有水攻状态的敌军造成兵刃伤害（伤害率208%）",
+    "triggerRate": "50%",
+    "validTroops": []
+  },
+  {
+    "id": "sz46",
+    "name": "定军斩将",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "1回合准备，对敌军全体造成兵刃伤害（伤害率98%-196%）并使其造成伤害降低16%-32%（受武力影响），持续2回合，随后使我军全体2回合内免疫计穷",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz47",
+    "name": "飞沙走石",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "奇数回合发动时，使敌军群体（2人）智力降低18-36点（受智力影响），持续1回合，并使其陷入2回合水攻状态（伤害率29%一58%）；偶数回合发动时，使敌军随机单体武力与智力数值对换，持续1回合，并使其陷入2回合沙暴状态（伤害率54%-108%）",
+    "triggerRate": "50%",
+    "validTroops": []
+  },
+  {
+    "id": "sz48",
+    "name": "聚石成金",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "奇数回合发动时，使我军全体统率提升34—68点（对黄巾武将生效时，受主将魅力影响），并使敌军魅力低于我军主将的武将进入禁疗状态，持续2回合；偶数回合发动时，使我军受到的主动战法和突击战法伤害降低12%-24%（对黄巾武将生效时，受统率影响），持续2回合",
+    "triggerRate": "50%",
+    "validTroops": []
+  },
+  {
+    "id": "sz49",
+    "name": "暗箭难防",
+    "type": "Active",
+    "quality": "S",
+    "category": "innate",
+    "description": "准备1回合，对敌军群体（2人）发动一次兵刃攻击（伤害率130%-260%）；并有30%-60%概率（受速度影响）捕获敌军单体武将（捕获效果无法被净化），使其无法行动和造成伤害、禁用指挥和被动战法、进入禁疗状态，且无法被其友方武将选中，持续2回合；同时最多捕获一名武将，若施放时已有敌军武将被捕获，则转而对其造成兵刃伤害（伤害率130%-260%）",
+    "triggerRate": "35%",
+    "validTroops": []
+  },
+  {
+    "id": "sz50",
     "name": "威震华夏",
     "type": "Active",
     "quality": "S",
@@ -310,7 +500,7 @@
     "validTroops": []
   },
   {
-    "id": "sz32",
+    "id": "sz51",
     "name": "江东猛虎",
     "type": "Active",
     "quality": "S",
@@ -320,7 +510,7 @@
     "validTroops": []
   },
   {
-    "id": "sz33",
+    "id": "sz52",
     "name": "百步穿杨",
     "type": "Active",
     "quality": "S",
@@ -330,7 +520,7 @@
     "validTroops": []
   },
   {
-    "id": "sz34",
+    "id": "sz53",
     "name": "暗度陈仓",
     "type": "Active",
     "quality": "S",
@@ -340,7 +530,7 @@
     "validTroops": []
   },
   {
-    "id": "sz35",
+    "id": "sz54",
     "name": "天下无双",
     "type": "Active",
     "quality": "S",
@@ -350,7 +540,7 @@
     "validTroops": []
   },
   {
-    "id": "sz36",
+    "id": "sz55",
     "name": "精练策数",
     "type": "Active",
     "quality": "S",
@@ -360,7 +550,7 @@
     "validTroops": []
   },
   {
-    "id": "sz37",
+    "id": "sz56",
     "name": "以逸待劳",
     "type": "Active",
     "quality": "S",
@@ -370,7 +560,7 @@
     "validTroops": []
   },
   {
-    "id": "sz38",
+    "id": "sz57",
     "name": "临战先登",
     "type": "Active",
     "quality": "S",
@@ -380,7 +570,7 @@
     "validTroops": []
   },
   {
-    "id": "sz39",
+    "id": "sz58",
     "name": "登锋陷阵",
     "type": "Active",
     "quality": "S",
@@ -390,7 +580,7 @@
     "validTroops": []
   },
   {
-    "id": "sz40",
+    "id": "sz59",
     "name": "五雷轰顶",
     "type": "Active",
     "quality": "S",
@@ -400,7 +590,7 @@
     "validTroops": []
   },
   {
-    "id": "sz41",
+    "id": "sz60",
     "name": "十面埋伏",
     "type": "Active",
     "quality": "S",
@@ -410,7 +600,7 @@
     "validTroops": []
   },
   {
-    "id": "sz42",
+    "id": "sz61",
     "name": "处兹不惑",
     "type": "Active",
     "quality": "S",
@@ -420,7 +610,7 @@
     "validTroops": []
   },
   {
-    "id": "sz43",
+    "id": "sz62",
     "name": "持军毅重",
     "type": "Active",
     "quality": "S",
@@ -430,7 +620,7 @@
     "validTroops": []
   },
   {
-    "id": "sz44",
+    "id": "sz63",
     "name": "火烧连营",
     "type": "Active",
     "quality": "S",
@@ -440,7 +630,7 @@
     "validTroops": []
   },
   {
-    "id": "sz45",
+    "id": "sz64",
     "name": "抬棺决战",
     "type": "Active",
     "quality": "S",
@@ -450,7 +640,7 @@
     "validTroops": []
   },
   {
-    "id": "sz46",
+    "id": "sz65",
     "name": "固若金汤",
     "type": "Active",
     "quality": "S",
@@ -460,7 +650,7 @@
     "validTroops": []
   },
   {
-    "id": "sz47",
+    "id": "sz66",
     "name": "鸩毒",
     "type": "Active",
     "quality": "S",
@@ -470,7 +660,7 @@
     "validTroops": []
   },
   {
-    "id": "sz48",
+    "id": "sz67",
     "name": "闭月",
     "type": "Active",
     "quality": "S",
@@ -480,7 +670,7 @@
     "validTroops": []
   },
   {
-    "id": "sz49",
+    "id": "sz68",
     "name": "胡笳余音",
     "type": "Active",
     "quality": "S",
@@ -490,7 +680,7 @@
     "validTroops": []
   },
   {
-    "id": "sz50",
+    "id": "sz69",
     "name": "累世立名",
     "type": "Active",
     "quality": "S",
@@ -500,7 +690,7 @@
     "validTroops": []
   },
   {
-    "id": "sz51",
+    "id": "sz70",
     "name": "苦肉计",
     "type": "Active",
     "quality": "S",
@@ -510,7 +700,7 @@
     "validTroops": []
   },
   {
-    "id": "sz52",
+    "id": "sz71",
     "name": "搦战群雄",
     "type": "Active",
     "quality": "S",
@@ -520,7 +710,7 @@
     "validTroops": []
   },
   {
-    "id": "sz53",
+    "id": "sz72",
     "name": "狮子奋迅",
     "type": "Active",
     "quality": "S",
@@ -530,7 +720,7 @@
     "validTroops": []
   },
   {
-    "id": "sz54",
+    "id": "sz73",
     "name": "竭忠尽智",
     "type": "Active",
     "quality": "S",
@@ -540,17 +730,17 @@
     "validTroops": []
   },
   {
-    "id": "sz55",
+    "id": "sz74",
     "name": "无双上将",
     "type": "Active",
     "quality": "B",
     "category": "innate",
     "description": "对敌军武力最高的武将造成兵刃攻击（伤害率246%），并获得破阵（造成伤害时无视目标的统率和智力）状态，持续1回合",
-    "triggerRate": "35%",
+    "triggerRate": "25%",
     "validTroops": []
   },
   {
-    "id": "sz56",
+    "id": "sz75",
     "name": "神机莫测",
     "type": "Active",
     "quality": "S",
@@ -560,7 +750,7 @@
     "validTroops": []
   },
   {
-    "id": "sz57",
+    "id": "sz76",
     "name": "十二奇策",
     "type": "Active",
     "quality": "S",
@@ -570,7 +760,7 @@
     "validTroops": []
   },
   {
-    "id": "sz58",
+    "id": "sz77",
     "name": "誓守无降",
     "type": "Active",
     "quality": "S",
@@ -580,7 +770,7 @@
     "validTroops": []
   },
   {
-    "id": "sz59",
+    "id": "sz78",
     "name": "振军击营",
     "type": "Active",
     "quality": "S",
@@ -590,7 +780,7 @@
     "validTroops": []
   },
   {
-    "id": "sz60",
+    "id": "sz79",
     "name": "沉断机谋",
     "type": "Active",
     "quality": "S",
@@ -600,7 +790,7 @@
     "validTroops": []
   },
   {
-    "id": "sz61",
+    "id": "sz80",
     "name": "连环计",
     "type": "Active",
     "quality": "S",
@@ -610,7 +800,7 @@
     "validTroops": []
   },
   {
-    "id": "sz62",
+    "id": "sz81",
     "name": "将门虎女",
     "type": "Active",
     "quality": "S",
@@ -620,7 +810,7 @@
     "validTroops": []
   },
   {
-    "id": "sz63",
+    "id": "sz82",
     "name": "震骇四境",
     "type": "Active",
     "quality": "S",
@@ -630,7 +820,7 @@
     "validTroops": []
   },
   {
-    "id": "sz64",
+    "id": "sz83",
     "name": "枪舞如风",
     "type": "Active",
     "quality": "S",
@@ -640,7 +830,7 @@
     "validTroops": []
   },
   {
-    "id": "sz65",
+    "id": "sz84",
     "name": "刀出如霆",
     "type": "Active",
     "quality": "S",
@@ -650,7 +840,7 @@
     "validTroops": []
   },
   {
-    "id": "sz66",
+    "id": "sz85",
     "name": "毒泉拒蜀",
     "type": "Active",
     "quality": "S",
@@ -660,7 +850,7 @@
     "validTroops": []
   },
   {
-    "id": "sz67",
+    "id": "sz86",
     "name": "顾盼生姿",
     "type": "Active",
     "quality": "S",
@@ -670,7 +860,7 @@
     "validTroops": []
   },
   {
-    "id": "sz68",
+    "id": "sz87",
     "name": "勇冠三军",
     "type": "Assault",
     "quality": "S",
@@ -680,7 +870,7 @@
     "validTroops": []
   },
   {
-    "id": "sz69",
+    "id": "sz88",
     "name": "将行其疾",
     "type": "Assault",
     "quality": "S",
@@ -690,7 +880,7 @@
     "validTroops": []
   },
   {
-    "id": "sz70",
+    "id": "sz89",
     "name": "燕人咆哮",
     "type": "Passive",
     "quality": "S",
@@ -700,7 +890,7 @@
     "validTroops": []
   },
   {
-    "id": "sz71",
+    "id": "sz90",
     "name": "一身是胆",
     "type": "Passive",
     "quality": "S",
@@ -710,7 +900,7 @@
     "validTroops": []
   },
   {
-    "id": "sz72",
+    "id": "sz91",
     "name": "江东小霸王",
     "type": "Passive",
     "quality": "S",
@@ -720,7 +910,7 @@
     "validTroops": []
   },
   {
-    "id": "sz73",
+    "id": "sz92",
     "name": "槊血纵横",
     "type": "Passive",
     "quality": "S",
@@ -730,7 +920,7 @@
     "validTroops": []
   },
   {
-    "id": "sz74",
+    "id": "sz93",
     "name": "虎痴",
     "type": "Passive",
     "quality": "S",
@@ -740,7 +930,7 @@
     "validTroops": []
   },
   {
-    "id": "sz75",
+    "id": "sz94",
     "name": "刚烈不屈",
     "type": "Passive",
     "quality": "S",
@@ -750,7 +940,7 @@
     "validTroops": []
   },
   {
-    "id": "sz76",
+    "id": "sz95",
     "name": "锦帆百翎",
     "type": "Passive",
     "quality": "S",
@@ -760,7 +950,7 @@
     "validTroops": []
   },
   {
-    "id": "sz77",
+    "id": "sz96",
     "name": "神射",
     "type": "Passive",
     "quality": "S",
@@ -770,7 +960,7 @@
     "validTroops": []
   },
   {
-    "id": "sz78",
+    "id": "sz97",
     "name": "勇烈持重",
     "type": "Passive",
     "quality": "S",
@@ -780,7 +970,7 @@
     "validTroops": []
   },
   {
-    "id": "sz79",
+    "id": "sz98",
     "name": "神火计",
     "type": "Passive",
     "quality": "S",
@@ -790,7 +980,7 @@
     "validTroops": []
   },
   {
-    "id": "sz80",
+    "id": "sz99",
     "name": "长驱直入",
     "type": "Passive",
     "quality": "S",
@@ -800,7 +990,7 @@
     "validTroops": []
   },
   {
-    "id": "sz81",
+    "id": "sz100",
     "name": "酒池肉林",
     "type": "Passive",
     "quality": "S",
@@ -810,7 +1000,7 @@
     "validTroops": []
   },
   {
-    "id": "sz82",
+    "id": "sz101",
     "name": "南蛮渠魁",
     "type": "Passive",
     "quality": "S",
@@ -820,7 +1010,7 @@
     "validTroops": []
   },
   {
-    "id": "sz83",
+    "id": "sz102",
     "name": "符命自立",
     "type": "Passive",
     "quality": "S",
@@ -830,7 +1020,7 @@
     "validTroops": []
   },
   {
-    "id": "sz84",
+    "id": "sz103",
     "name": "义胆雄心",
     "type": "Passive",
     "quality": "S",
@@ -840,7 +1030,7 @@
     "validTroops": []
   },
   {
-    "id": "sz85",
+    "id": "sz104",
     "name": "肉身铁壁",
     "type": "Passive",
     "quality": "S",
@@ -850,7 +1040,7 @@
     "validTroops": []
   },
   {
-    "id": "sz86",
+    "id": "sz105",
     "name": "陷阵突袭",
     "type": "Passive",
     "quality": "S",
@@ -860,7 +1050,7 @@
     "validTroops": []
   },
   {
-    "id": "sz87",
+    "id": "sz106",
     "name": "奋矛英姿",
     "type": "Passive",
     "quality": "S",
@@ -870,7 +1060,7 @@
     "validTroops": []
   },
   {
-    "id": "sz88",
+    "id": "sz107",
     "name": "鸱苕凤姿",
     "type": "Passive",
     "quality": "S",
@@ -880,7 +1070,7 @@
     "validTroops": []
   },
   {
-    "id": "sz89",
+    "id": "sz108",
     "name": "高橹连营",
     "type": "Passive",
     "quality": "S",
@@ -890,7 +1080,7 @@
     "validTroops": []
   },
   {
-    "id": "sz90",
+    "id": "sz109",
     "name": "才辩机捷",
     "type": "Passive",
     "quality": "S",
@@ -900,7 +1090,7 @@
     "validTroops": []
   },
   {
-    "id": "sz91",
+    "id": "sz110",
     "name": "奇兵间道",
     "type": "Passive",
     "quality": "S",
@@ -910,7 +1100,7 @@
     "validTroops": []
   },
   {
-    "id": "sz92",
+    "id": "sz111",
     "name": "溯江摇橹",
     "type": "Passive",
     "quality": "S",
@@ -920,7 +1110,47 @@
     "validTroops": []
   },
   {
-    "id": "sz93",
+    "id": "sz112",
+    "name": "舍身救主",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，自身受到伤害降低90%，每次受到伤害后，该效果降低3%；该效果降低5次后，自身受到伤害时有35%概率（受统率影响）视为2次（可额外触发反击、急救等效果）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz113",
+    "name": "计定谋决",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "偷取敌方智力最高武将12-24点智力（受智力影响）；且每当自身试图发动主动战法前，恢复我军单体一定兵力（治疗率32%-64%，受智力影响）",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz114",
+    "name": "死战不退",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，使自己免疫混乱；自身受到伤害时，有80%概率获得一层蓄威效果，可积攒20层；普攻后，有50%概率（受武力影响）消耗一层蓄成对敌军单体造成一次兵刃伤害（伤害率65%一130%），触发后可继续判定，每次触发后几率降低8%，每次普攻后最多触发5次",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz115",
+    "name": "威武并昭",
+    "type": "Passive",
+    "quality": "S",
+    "category": "innate",
+    "description": "战斗中，自身每回合获得33%看破（受速度影响，持续1回合，看破：造成伤害时无视目标一定比例的受到伤害降低效果）；敌军主将每回合行动前，自身有33%概率（受双方速度差影响）对敌军速度低于自身的武将发动1次普通攻击；自身主将时，每次判定成功后自身速度提升9点（受双方速度差影响），可叠加；",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz116",
     "name": "象兵-自带",
     "type": "Troop",
     "quality": "S",
@@ -930,7 +1160,7 @@
     "validTroops": ["cavalry"]
   },
   {
-    "id": "sz94",
+    "id": "sz117",
     "name": "西凉铁骑-自带",
     "type": "Troop",
     "quality": "S",
@@ -940,7 +1170,7 @@
     "validTroops": ["cavalry"]
   },
   {
-    "id": "sz95",
+    "id": "sz118",
     "name": "虎豹骑-自带",
     "type": "Troop",
     "quality": "S",
@@ -950,7 +1180,7 @@
     "validTroops": ["cavalry"]
   },
   {
-    "id": "sz96",
+    "id": "sz119",
     "name": "藤甲兵-自带",
     "type": "Troop",
     "quality": "S",
@@ -960,7 +1190,7 @@
     "validTroops": ["shield"]
   },
   {
-    "id": "sz97",
+    "id": "sz120",
     "name": "陷阵营-自带",
     "type": "Troop",
     "quality": "S",
@@ -970,7 +1200,7 @@
     "validTroops": ["shield"]
   },
   {
-    "id": "sz98",
+    "id": "sz121",
     "name": "白马义从-自带",
     "type": "Troop",
     "quality": "S",
@@ -980,7 +1210,7 @@
     "validTroops": ["bow"]
   },
   {
-    "id": "sz99",
+    "id": "sz122",
     "name": "无当飞军-自带",
     "type": "Troop",
     "quality": "S",
@@ -990,7 +1220,17 @@
     "validTroops": ["bow"]
   },
   {
-    "id": "sz100",
+    "id": "sz123",
+    "name": "先登死士-自带",
+    "type": "Troop",
+    "quality": "S",
+    "category": "innate",
+    "description": "将弓兵进阶为悍不畏死的先登死士：战斗中，我军全体免疫遇袭状态，且受到伤害时，有20%一40%概率（受携带者统率影响）触发以下效果：若兵力百分比低于攻击者则偷取其10.5-121点统率，否则降低其1.5%-13%主动战法发动率，持续2回合，可叠加4次；若麴义统领，则可叠加5次",
+    "triggerRate": null,
+    "validTroops": ["bow"]
+  },
+  {
+    "id": "sz124",
     "name": "白毦兵-自带",
     "type": "Troop",
     "quality": "S",
@@ -1000,7 +1240,7 @@
     "validTroops": ["spear"]
   },
   {
-    "id": "sz101",
+    "id": "sz125",
     "name": "大戟士-自带",
     "type": "Troop",
     "quality": "S",
@@ -1010,7 +1250,7 @@
     "validTroops": ["spear"]
   },
   {
-    "id": "sz102",
+    "id": "sz126",
     "name": "清流雅望",
     "type": "Domestic",
     "quality": "S",
@@ -1020,7 +1260,7 @@
     "validTroops": []
   },
   {
-    "id": "sz103",
+    "id": "sz127",
     "name": "功勋克举",
     "type": "Domestic",
     "quality": "S",
@@ -1030,7 +1270,7 @@
     "validTroops": []
   },
   {
-    "id": "sz104",
+    "id": "sz128",
     "name": "国色",
     "type": "Domestic",
     "quality": "S",
@@ -1040,7 +1280,7 @@
     "validTroops": []
   },
   {
-    "id": "sz105",
+    "id": "sz129",
     "name": "花容月貌",
     "type": "Domestic",
     "quality": "S",
@@ -1050,7 +1290,7 @@
     "validTroops": []
   },
   {
-    "id": "sz106",
+    "id": "sz130",
     "name": "七步成诗",
     "type": "Domestic",
     "quality": "S",
@@ -1060,7 +1300,7 @@
     "validTroops": []
   },
   {
-    "id": "sz107",
+    "id": "sz131",
     "name": "水镜先生",
     "type": "Domestic",
     "quality": "S",
@@ -1070,7 +1310,7 @@
     "validTroops": []
   },
   {
-    "id": "sz108",
+    "id": "sz132",
     "name": "克遵画一",
     "type": "Domestic",
     "quality": "S",
@@ -1080,7 +1320,7 @@
     "validTroops": []
   },
   {
-    "id": "sz109",
+    "id": "sz133",
     "name": "王佐之才",
     "type": "Domestic",
     "quality": "S",
@@ -1090,7 +1330,7 @@
     "validTroops": []
   },
   {
-    "id": "sz110",
+    "id": "sz134",
     "name": "奇施经略",
     "type": "Domestic",
     "quality": "S",
@@ -1100,7 +1340,7 @@
     "validTroops": []
   },
   {
-    "id": "sz111",
+    "id": "sz135",
     "name": "天香",
     "type": "Domestic",
     "quality": "S",
@@ -1110,7 +1350,7 @@
     "validTroops": []
   },
   {
-    "id": "sz112",
+    "id": "sz136",
     "name": "戮力上国",
     "type": "Domestic",
     "quality": "S",
@@ -1120,12 +1360,22 @@
     "validTroops": []
   },
   {
-    "id": "sz113",
+    "id": "sz137",
     "name": "晓知良木",
     "type": "Domestic",
     "quality": "S",
     "category": "innate",
     "description": "武将委任为木材官时，木材产量提升1.5%",
+    "triggerRate": null,
+    "validTroops": []
+  },
+  {
+    "id": "sz138",
+    "name": "天下名巧",
+    "type": "Domestic",
+    "quality": "S",
+    "category": "innate",
+    "description": "武将委任为使臣时，高阶奖励几率提升4.5%-19%",
     "triggerRate": null,
     "validTroops": []
   },
@@ -1791,6 +2041,16 @@
   },
   {
     "id": "sx67",
+    "name": "先登死士",
+    "type": "Troop",
+    "quality": "S",
+    "category": "inheritable",
+    "description": "将弓兵进阶为悍不畏死的先登死士：战斗中，我军全体免疫遇袭状态，且受到伤害时，有20%一40%概率（受携带者统率影响）触发以下效果：若兵力百分比低于攻击者则偷取其10.5-121点统率，否则降低其1.5%-13%主动战法发动率，持续2回合，可叠加4次；若麴义统领，则可叠加5次",
+    "triggerRate": null,
+    "validTroops": ["bow"]
+  },
+  {
+    "id": "sx68",
     "name": "白毦兵",
     "type": "Troop",
     "quality": "S",
@@ -1800,7 +2060,7 @@
     "validTroops": ["spear"]
   },
   {
-    "id": "sx68",
+    "id": "sx69",
     "name": "大戟士",
     "type": "Troop",
     "quality": "S",
@@ -1810,7 +2070,7 @@
     "validTroops": ["spear"]
   },
   {
-    "id": "sx69",
+    "id": "sx70",
     "name": "青州兵",
     "type": "Troop",
     "quality": "S",
@@ -1820,7 +2080,7 @@
     "validTroops": ["spear"]
   },
   {
-    "id": "sx70",
+    "id": "sx71",
     "name": "八门金锁阵",
     "type": "Formation",
     "quality": "S",
@@ -1830,7 +2090,7 @@
     "validTroops": []
   },
   {
-    "id": "sx71",
+    "id": "sx72",
     "name": "锋矢阵",
     "type": "Formation",
     "quality": "S",
@@ -1840,7 +2100,7 @@
     "validTroops": ["cavalry", "shield", "spear"]
   },
   {
-    "id": "sx72",
+    "id": "sx73",
     "name": "箕形阵",
     "type": "Formation",
     "quality": "S",
@@ -1850,7 +2110,7 @@
     "validTroops": []
   },
   {
-    "id": "sx73",
+    "id": "sx74",
     "name": "经术政要",
     "type": "Domestic",
     "quality": "S",
